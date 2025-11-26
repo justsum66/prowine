@@ -1,0 +1,219 @@
+全球精品酒莊的新網站趨勢：走 neoclassical / 現代古典奢華、大面積照片＋極簡排版，搭配很清楚的「造訪、訂位、購買、加入酒俱」動線。
+
+ProWine 新官網要同時做到三件事：
+
+看起來像「全球精品酒莊選酒顧問」（視覺與品牌）
+
+結構上能跟上台灣競爭對手（內容、功能、SEO）
+
+預留之後 AI 選酒與會員系統的入口（功能延展）
+
+解決架構（參考網站分三層）
+
+簡單架構圖：
+
+[全球精品酒莊 UX / 視覺]
+➜ 定義「Bordeaux/Luxury」風格
+[台灣進口商 / 零售商 IA]
+➜ 定義資訊架構與內容模組
+[設計公司 Wine Case Study]
+➜ 定義細節層級：字級、留白、圖片節奏
+
+給 Cursor 的總說明（建議放在 md 開頭）
+
+請依下列 20 個網站作為 ProWine 新官網的設計與資訊架構參考：
+
+A 類（1–9）：全球精品酒莊／產區網站，用來決定視覺風格、排版與故事呈現。
+
+B 類（10–18）：台灣葡萄酒進口商與零售平台，用來決定導覽架構、商品分類、內容模組。
+
+C 類（19–20）：設計公司針對葡萄酒品牌的專案頁，參考細節 UI/UX。
+請實際打開這些連結，整理出 ProWine 新官網的：
+1）全站導覽結構、2）首頁版型、3）商品/酒款列表、4）品牌故事頁、5）活動／課程／AI 選酒入口的最佳實踐。
+
+A 類：全球精品酒莊 / 產區（視覺與故事）
+#	類型	品牌 / 官網	URL	給 Cursor 的重點說明
+1	全球產區官方	Napa Valley Wine	https://napavalley.wine
+	觀察如何把「整個產區」的品牌故事、酒莊列表、體驗活動整合在同一個網站裡，適合作為 ProWine「合作酒莊地圖／酒莊索引」參考。
+muffingroup.com
+
+2	頂級精品酒莊	Château d’Yquem	https://yquem.fr
+	參考頂級 Sauternes 酒莊的低調奢華風格：深色背景、大面積高質感照片、極簡導航，適合作為 ProWine「黑底＋金色」高級感參考。
+Mediaboom
+
+3	Napa 精品	Silver Oak	https://silveroak.com
+	觀察首頁如何結合「品牌故事 + 電商 + 贈禮專區」，特別是 Shop / Gift / Subscription 區塊的導購設計。
+Silver Oak Cellars
+
+4	有機／生物動力	Benziger Family Winery	https://benziger.com
+	參考「永續／有機」故事如何視覺化：大量自然照片、農場與酒窖介紹、品飲體驗預約流程，可套用在 ProWine「小酒莊故事」區。
+muffingroup.com
++1
+
+5	美國莊園＋體驗	Soter Vineyards	https://www.sotervineyards.com
+	觀察一個「莊園＋體驗導向」網站如何設計：首頁 hero、Visit/Winemaking/Shop 的資訊結構，適合 ProWine 未來若做「酒莊之旅、Masterclass」頁面。
+sotervineyards.com
++1
+
+6	義大利 x 阿根廷	Masi Tupungato	https://www.masitupungato.com/en/
+	極適合作為「品牌敘事頁」參考：清楚切分 Home / Grapes & Wines / Sustainability / Hospitality，結構乾淨、文案節奏明確。
+masitupungato.com
++1
+
+7	義大利精品	Feudi di San Gregorio	https://www.feudi.it
+	把「藝術、建築與葡萄酒」結合在一起的網站，適合作為 ProWine 日後要做「設計感很強的品牌故事頁」參考。
+Mediaboom
+
+8	英國現代酒莊	Artelium Wine Estate	https://www.artelium.com
+	觀察「酒＋藝術＋活動」怎麼共存在一個簡潔導航底下：Plan Your Visit、Shop、What’s On、Art 等分頁，適合 ProWine 未來做「活動 & 課程」模組。
+Artelium
++1
+
+9	美國親民精品	Oliver Winery	https://www.oliverwinery.com
+	介於精品與親民之間的語氣：大量 vineyard／bottle 圖片，導覽同時服務「買酒、體驗、品牌」三種路徑，可作為首頁版型摹仿範本。
+Mediaboom
+B 類：台灣進口商／零售平台（資訊架構與競爭對手）
+#	類型	品牌 / 官網	URL	給 Cursor 的重點說明
+10	進口商／代理	悅盛國際 Yehsun	https://www.yehsun.com/zh/
+	直接競爭對手之一。重點看：首頁 hero（品牌故事 + 代理酒莊）、酒款分類（酒款類型／風格）、關於我們、新聞中心的結構。
+悅盛國際行銷
++2
+悅盛國際行銷
++2
+
+11	進口商	泰德利 Titlist Wine	https://titlist.com.tw/
+	老牌進口商，觀察 how：品牌故事頁、代理品牌列表、活動／新聞，適合作為 ProWine「公司介紹＋合作酒莊列表」的資訊架構 baseline。
+泰德利
++1
+
+12	進口商	金醇臻品 Formosa Wine	https://www.formosawine.com/
+	強調波爾多列級酒莊與高單價酒款的品牌形象，適合作為 ProWine「頂級酒專區」的排版參考。
+formosawine.com
+
+13	訂閱型零售	Direct Wines Taiwan 樂事會	https://www.directwines.com.tw/
+	重點看：首頁文案如何強調「50 年選酒經驗」，以及訂閱／專案式組合包的導購流程，可參考在 ProWine 未來做「精選組合箱」或「AI 選酒方案」。
+directwines.com.tw
+
+14	進口＋實體通路	ENOTECA Taiwan 愛諾特卡	https://www.enoteca.com.tw
+	導覽結構同時兼顧「品牌介紹、門市資訊、線上購物」，適合參考如何在一個網站呈現 B2B、B2C 與實體店據點。
+台灣愛諾特卡股份有限公司
++1
+
+15	進口商＋禮盒	SEA & LAND Wine & Spirits 陸海洋行	https://www.sealand-wine.com.tw/
+	有「酒禮盒王國」定位，觀察禮盒產品如何被包成系列與主題，可對照 ProWine 將「送禮／企業方案」拆成獨立模組。
+Sealand Wine
+
+16	大型電商	iCheers 愛酒窩	https://www.icheers.tw/
+	台灣酒類電商 UI 參考：看商品列表、篩選條件、促銷模組、會員系統，幫助 ProWine 設計自己的「簡化版電商／詢價車」。
+iCheers
+
+17	精品洋酒	英蓋爾 99 Bottles	https://www.99bottlesco.com/
+	介面風格偏現代、強調多國產區與多酒種（威士忌＋葡萄酒），適合作為 ProWine 若要擴展到烈酒時的結構的參考。
+99 Bottles Co.
+
+18	進口＋網店	永紳國際 YZ Wine	https://www.yzwinetw.com/
+	結構簡單但商品卡清晰，適合作為「最精簡可運作」的網店參考，從這個 complexity 起跳。
+YZ Wine
+C 類：設計公司 Wine Case（細節 UI/UX）
+#	類型	品牌 / 官網	URL	給 Cursor 的重點說明
+19	精品酒電商品牌	Cher Ami 瓶中信（BORING Design Lab 專案）	https://www.boring-lab.com/work/cher-ami
+	觀察整體「品牌視覺＋電商」的融合：首頁版型、產品頁、排版節奏、字級與留白，直接當作 ProWine 新站的細節參考。
+Boring Design Lab
+
+20	競品網站設計案	悅盛國際代理酒莊（Cadiis 專案頁）	https://www.cadiis.com.tw/portfolio/yehsun
+	這是悅盛官網的設計公司案例。重點看：他們如何利用酒紅色色系、RWD、CMS 後台與多語系，把進口商網站包裝成「酒莊旅程感」。
+凱士網頁設計
++1
+四、執行步驟（直接給 Cursor 跑的 Roadmap）
+
+建立參考說明檔
+
+在專案中新增 REF_PROWINE_WEBSITES.md，貼上「給 Cursor 的總說明」＋上面 20 個網站表格。
+
+要求 Cursor 逐一開啟連結，為每個網站輸出：hero 版型 / 導覽架構 / 主要模組 / 色彩與排版特徵 的簡表。
+
+抽取共通 IA（資訊架構）
+
+讓 Cursor 根據 B 類（10–18）先整理出一份「台灣酒商網站常見結構」：
+
+例：首頁 / 關於我們 / 代理酒莊 / 酒款一覽 / 活動與課程 / 文章／知識 / 聯絡我們 / 會員或詢價區。
+
+然後要求 Cursor 根據 ProWine 特色（小酒莊＋園丁＋教育）做一個「ProWine_IA_v1.md」。
+
+決定視覺基調與 Design Tokens
+
+指定 Cursor 以 A 類（2：Yquem、3：Silver Oak、6：Masi Tupungato、8：Artelium）為主參考，抽出：
+
+色彩系統（深酒紅 / 炭黑 / 香檳金 / 暖米白）
+
+字體階層（標題、內文、按鈕）
+
+卡片風格（圓角、陰影、邊框）
+
+產生 design-tokens-prowine.json 或 md 描述檔，之後所有頁面都吃同一套。
+
+首頁與關鍵頁 Wireframe -> High-fidelity
+
+讓 Cursor 先做 文字版 Wireframe，只標出區塊名稱與內容（不寫程式碼）：
+
+首頁：Hero（品牌標語＋代表酒莊圖）、精選酒莊、精選酒款、學院內容、AI 選酒 CTA、聯絡。
+
+代理酒莊列表頁：依產區／風格分群，每個酒莊卡片含照片＋風土標籤。
+
+Wireframe 確定後，再請 Cursor 用剛剛的 Design Tokens 把 Wireframe 升級成 high-fidelity layout 描述。
+
+功能模組設計（不急著上電商，可先做詢價／收藏）
+
+參考 iCheers、Direct Wines Taiwan 的商品列表，先定義：
+
+酒款卡片欄位（產區、品種、年份、價位區間、飲用場合 tag）。
+
+篩選條件（產區、風格、價位、搭餐類型）。
+
+結合 ProWine 的「顧問角色」，加上一個輕量版「AI 選酒」入口（僅前端 UI，日後再串 API）。
+
+SEO 與文案框架
+
+依照上述網站，要求 Cursor 生成：
+
+每個主要頁面的 H1 / Meta Title / Meta Description 草稿。
+
+針對「台北葡萄酒進口商、Napa 代理、精品葡萄酒推薦」等關鍵字規劃內容欄位。
+
+五、風險評估
+
+風險：設計太像國外某個精品酒莊，變成「抄襲感」
+
+發生機率：中
+
+影響：品牌形象受損、未來若要對外投資簡報會被挑戰。
+
+對策：
+
+讓 Cursor 明確標註「哪個元素來自哪一個網站」，再重新組合（混合 3–4 個來源）。
+
+所有圖片改用 ProWine 自家酒莊照或付費圖庫，不直接抓對方圖。
+
+風險：只學到「好看」，忽略 loading 與 RWD 實際表現
+
+發生機率：中
+
+影響：手機版速度慢，客戶實際使用體驗差。
+
+對策：
+
+在設計階段就要求 Cursor 給出「圖片壓縮策略、lazy load 策略」。
+
+所有 hero 圖片設計兩套：desktop / mobile 版本。
+
+風險：台灣使用者習慣與國外不同，轉換率不如預期
+
+發生機率：中
+
+影響：漂亮但不賣酒。
+
+對策：
+
+參考 iCheers、ENOTECA 的內容模組（FAQ、促銷區、活動）做 A/B 版本。
+
+上線後用 GA4 / 事件追蹤調整 CTA 位置與文案。

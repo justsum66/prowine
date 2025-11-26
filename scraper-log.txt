@@ -1,0 +1,1433 @@
+
+> prowine@1.0.0 scrape:enhanced
+> tsx scripts/scraper/enhanced-scraper.ts
+
+Γ£à Cloudinary σ╖▓Θàìτ╜«
+   Cloud Name: 341388744959128
+   API Key: 3413887449...
+   API Secret: ***
+≡ƒÜÇ ProWine σó₧σ╝╖τëêΦ│çµûÖτê¼σÅûτ│╗τ╡▒
+================================
+
+ΓÅ░ ΘûïσºïµÖéΘûô: 2025/11/27 Σ╕èσìê1:00:50
+
+≡ƒôï µ¡ÑΘ⌐ƒ1: τê¼σÅûΘàÆΦÄèΦ│çµûÖ...
+≡ƒÅ¡ Θûïσºïτê¼σÅûΘàÆΦÄèΦ│çµûÖ...
+Γ£à µë╛σê░ 54 σÇïσö»Σ╕ÇΘàÆΦÄè
+Γ£à µë╛σê░ 54 σÇïΘàÆΦÄè
+
+≡ƒôï µ¡ÑΘ⌐ƒ2: τê¼σÅûΘàÆµ¼╛Φ│çµûÖ...
+≡ƒì╖ Θûïσºïτê¼σÅûΘàÆµ¼╛Φ│çµûÖ...
+≡ƒôï µ¡ÑΘ⌐ƒ1: σ╛₧ΘªûΘáüµÅÉσÅûΘÇúτ╡É...
+Γ£à ΘªûΘáüµë╛σê░ 8 σÇïΘàÆµ¼╛ΘÇúτ╡É
+≡ƒôï µ¡ÑΘ⌐ƒ2: σ╛₧σêåΘí₧ΘáüΘ¥óµÅÉσÅûΘÇúτ╡É∩╝êσîàσÉ½σêåΘáü∩╝ë...
+≡ƒôé σ░çµ¬óµƒÑ 43 σÇïσêåΘí₧ΘáüΘ¥ó
+  ≡ƒôä http://prowine.com.tw/?wine_area=usa: µë╛σê░ 15 σÇïσö»Σ╕ÇΘàÆµ¼╛ΘÇúτ╡É
+  ≡ƒôä http://prowine.com.tw/?wine_area=france: µë╛σê░ 15 σÇïσö»Σ╕ÇΘàÆµ¼╛ΘÇúτ╡É
+  ≡ƒôä http://prowine.com.tw/?wine_area=spain: µë╛σê░ 4 σÇïσö»Σ╕ÇΘàÆµ¼╛ΘÇúτ╡É
+  ≡ƒôä http://prowine.com.tw/?wine_categories=sparkling-wine: µë╛σê░ 1 σÇïσö»Σ╕ÇΘàÆµ¼╛ΘÇúτ╡É
+  ≡ƒôä http://prowine.com.tw/?wine_categories=white-wine: µë╛σê░ 15 σÇïσö»Σ╕ÇΘàÆµ¼╛ΘÇúτ╡É
+  ≡ƒôä http://prowine.com.tw/?wine_categories=rose-wine: µë╛σê░ 4 σÇïσö»Σ╕ÇΘàÆµ¼╛ΘÇúτ╡É
+  ≡ƒôä http://prowine.com.tw/?wine_categories=red-wine: µë╛σê░ 15 σÇïσö»Σ╕ÇΘàÆµ¼╛ΘÇúτ╡É
+  ≡ƒôä http://prowine.com.tw/?wine_categories=champagne: µë╛σê░ 2 σÇïσö»Σ╕ÇΘàÆµ¼╛ΘÇúτ╡É
+  ≡ƒôä http://prowine.com.tw/?wine_categories=%e8%b2%b4%e8%85%90%e9%85%92: µë╛σê░ 0 σÇïσö»Σ╕ÇΘàÆµ¼╛ΘÇúτ╡É
+  ≡ƒôä http://prowine.com.tw/?wine_type=albarino: µë╛σê░ 1 σÇïσö»Σ╕ÇΘàÆµ¼╛ΘÇúτ╡É
+  ≡ƒôä http://prowine.com.tw/?wine_type=cabernet-franc: µë╛σê░ 0 σÇïσö»Σ╕ÇΘàÆµ¼╛ΘÇúτ╡É
+  ≡ƒôä http://prowine.com.tw/?wine_type=cabernet-sauvignon: µë╛σê░ 15 σÇïσö»Σ╕ÇΘàÆµ¼╛ΘÇúτ╡É
+  ≡ƒôä http://prowine.com.tw/?wine_type=chardonnay: µë╛σê░ 9 σÇïσö»Σ╕ÇΘàÆµ¼╛ΘÇúτ╡É
+  ≡ƒôä http://prowine.com.tw/?wine_type=cinsault: µë╛σê░ 1 σÇïσö»Σ╕ÇΘàÆµ¼╛ΘÇúτ╡É
+  ≡ƒôä http://prowine.com.tw/?wine_type=glera: µë╛σê░ 0 σÇïσö»Σ╕ÇΘàÆµ¼╛ΘÇúτ╡É
+  ≡ƒôä http://prowine.com.tw/?wine_type=grenache: µë╛σê░ 15 σÇïσö»Σ╕ÇΘàÆµ¼╛ΘÇúτ╡É
+  ≡ƒôä http://prowine.com.tw/?wine_type=grenache-blanc: µë╛σê░ 2 σÇïσö»Σ╕ÇΘàÆµ¼╛ΘÇúτ╡É
+  ≡ƒôä http://prowine.com.tw/?wine_type=malbec: µë╛σê░ 0 σÇïσö»Σ╕ÇΘàÆµ¼╛ΘÇúτ╡É
+  ≡ƒôä http://prowine.com.tw/?wine_type=marsanne: µë╛σê░ 1 σÇïσö»Σ╕ÇΘàÆµ¼╛ΘÇúτ╡É
+  ≡ƒôä http://prowine.com.tw/?wine_type=merlot: µë╛σê░ 15 σÇïσö»Σ╕ÇΘàÆµ¼╛ΘÇúτ╡É
+  ≡ƒôä http://prowine.com.tw/?wine_type=mourvedre: µë╛σê░ 3 σÇïσö»Σ╕ÇΘàÆµ¼╛ΘÇúτ╡É
+  ≡ƒôä http://prowine.com.tw/?wine_type=petit-sirah: µë╛σê░ 2 σÇïσö»Σ╕ÇΘàÆµ¼╛ΘÇúτ╡É
+  ≡ƒôä http://prowine.com.tw/?wine_type=pinot-meunier: µë╛σê░ 1 σÇïσö»Σ╕ÇΘàÆµ¼╛ΘÇúτ╡É
+  ≡ƒôä http://prowine.com.tw/?wine_type=pinot-noir: µë╛σê░ 5 σÇïσö»Σ╕ÇΘàÆµ¼╛ΘÇúτ╡É
+  ≡ƒôä http://prowine.com.tw/?wine_type=riesling: µë╛σê░ 0 σÇïσö»Σ╕ÇΘàÆµ¼╛ΘÇúτ╡É
+  ≡ƒôä http://prowine.com.tw/?wine_type=roussanne: µë╛σê░ 3 σÇïσö»Σ╕ÇΘàÆµ¼╛ΘÇúτ╡É
+  ≡ƒôä http://prowine.com.tw/?wine_type=sangiovese: µë╛σê░ 0 σÇïσö»Σ╕ÇΘàÆµ¼╛ΘÇúτ╡É
+  ≡ƒôä http://prowine.com.tw/?wine_type=sauvignon-blanc: µë╛σê░ 3 σÇïσö»Σ╕ÇΘàÆµ¼╛ΘÇúτ╡É
+  ≡ƒôä http://prowine.com.tw/?wine_type=semillon: µë╛σê░ 0 σÇïσö»Σ╕ÇΘàÆµ¼╛ΘÇúτ╡É
+  ≡ƒôä http://prowine.com.tw/?wine_type=syrah-shiraz: µë╛σê░ 15 σÇïσö»Σ╕ÇΘàÆµ¼╛ΘÇúτ╡É
+  ≡ƒôä http://prowine.com.tw/?wine_type=tempranillo: µë╛σê░ 4 σÇïσö»Σ╕ÇΘàÆµ¼╛ΘÇúτ╡É
+  ≡ƒôä http://prowine.com.tw/?wine_type=touriga-nacional: µë╛σê░ 1 σÇïσö»Σ╕ÇΘàÆµ¼╛ΘÇúτ╡É
+  ≡ƒôä http://prowine.com.tw/?wine_type=viognier: µë╛σê░ 1 σÇïσö»Σ╕ÇΘàÆµ¼╛ΘÇúτ╡É
+  ≡ƒôä http://prowine.com.tw/?wine_type=viura: µë╛σê░ 1 σÇïσö»Σ╕ÇΘàÆµ¼╛ΘÇúτ╡É
+  ≡ƒôä http://prowine.com.tw/?wine_type=white-grenache: µë╛σê░ 0 σÇïσö»Σ╕ÇΘàÆµ¼╛ΘÇúτ╡É
+  ≡ƒôä http://prowine.com.tw/?wine_type=zinfandel: µë╛σê░ 9 σÇïσö»Σ╕ÇΘàÆµ¼╛ΘÇúτ╡É
+  ≡ƒôä http://prowine.com.tw/?wine_level=1-480-800: µë╛σê░ 5 σÇïσö»Σ╕ÇΘàÆµ¼╛ΘÇúτ╡É
+  ≡ƒôä http://prowine.com.tw/?wine_level=2-801-1500: µë╛σê░ 15 σÇïσö»Σ╕ÇΘàÆµ¼╛ΘÇúτ╡É
+  ≡ƒôä http://prowine.com.tw/?wine_level=3-1501-2500: µë╛σê░ 15 σÇïσö»Σ╕ÇΘàÆµ¼╛ΘÇúτ╡É
+  ≡ƒôä http://prowine.com.tw/?wine_level=4-2501-4000: µë╛σê░ 15 σÇïσö»Σ╕ÇΘàÆµ¼╛ΘÇúτ╡É
+  ≡ƒôä http://prowine.com.tw/?wine_level=5-4001-6500: µë╛σê░ 9 σÇïσö»Σ╕ÇΘàÆµ¼╛ΘÇúτ╡É
+  ≡ƒôä http://prowine.com.tw/?wine_level=6-6501-8000: µë╛σê░ 2 σÇïσö»Σ╕ÇΘàÆµ¼╛ΘÇúτ╡É
+  ≡ƒôä http://prowine.com.tw/?wine_level=7-8001-20000: µë╛σê░ 6 σÇïσö»Σ╕ÇΘàÆµ¼╛ΘÇúτ╡É
+Γ£à τ╕╜σà▒µë╛σê░ 99 σÇïσö»Σ╕ÇΘàÆµ¼╛ΘÇúτ╡É
+≡ƒôï µ¡ÑΘ⌐ƒ3: τê¼σÅûΘàÆµ¼╛Φ⌐│µâà...
+  Γ£à σ╖▓ΦÖòτÉå 1/99 µö»ΘàÆµ¼╛...
+  Γ£à σ╖▓ΦÖòτÉå 10/99 µö»ΘàÆµ¼╛...
+  Γ£à σ╖▓ΦÖòτÉå 20/99 µö»ΘàÆµ¼╛...
+  Γ£à σ╖▓ΦÖòτÉå 30/99 µö»ΘàÆµ¼╛...
+  Γ£à σ╖▓ΦÖòτÉå 40/99 µö»ΘàÆµ¼╛...
+  Γ£à σ╖▓ΦÖòτÉå 50/99 µö»ΘàÆµ¼╛...
+  Γ£à σ╖▓ΦÖòτÉå 60/99 µö»ΘàÆµ¼╛...
+  Γ£à σ╖▓ΦÖòτÉå 70/99 µö»ΘàÆµ¼╛...
+  Γ£à σ╖▓ΦÖòτÉå 80/99 µö»ΘàÆµ¼╛...
+  Γ£à σ╖▓ΦÖòτÉå 90/99 µö»ΘàÆµ¼╛...
+Γ£à µêÉσèƒτê¼σÅû 99 µö»ΘàÆµ¼╛∩╝îσñ▒µòù 0 µö»
+Γ£à µë╛σê░ 99 µö»ΘàÆµ¼╛
+
+≡ƒôï µ¡ÑΘ⌐ƒ3: Σ┐¥σ¡ÿσê░Φ│çµûÖσ║½...
+≡ƒÆ╛ ΘûïσºïΣ┐¥σ¡ÿΦ│çµûÖ...
+  ≡ƒîÉ σÿùΦ⌐ªσ╛₧σ«ÿτ╢▓τì▓σÅû Darioush Darius II τÜäΘ½ÿΦ│¬ΘçÅσ£ûτëç...
+  ≡ƒöì τé║ "Darioush Darius II" τöƒµêÉ 24 σÇïσÅ»Φâ╜τÜäσƒƒσÉì...
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.darioush darius ii.fr
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://www.darioush darius ii.fr σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://darioush darius ii.fr
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://darioush darius ii.fr σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.darioush darius ii.com
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://www.darioush darius ii.com σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://darioush darius ii.com
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://darioush darius ii.com σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.darioush darius ii.net
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://www.darioush darius ii.net σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://darioush darius ii.net
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://darioush darius ii.net σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.darioushdariusii.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://darioushdariusii.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.darioushdariusii.com
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://darioushdariusii.com
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.darioushdariusii.net
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://darioushdariusii.net
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.darioush-darius-ii.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://darioush-darius-ii.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.darioush-darius-ii.com
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://darioush-darius-ii.com
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.darioush-darius-ii.net
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://darioush-darius-ii.net
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.darioush.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://darioush.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.darioush.com
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://darioush.com
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.darioush.net
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://darioush.net
+  ≡ƒô╕ ΦÖòτÉåΘàÆΦÄèlogo: Darioush Darius II - http://prowine.com.tw/newsite/wp-content/uploads/2...
+≡ƒôÑ Σ╕ïΦ╝ëσ£ûτëç: http://prowine.com.tw/newsite/wp-content/uploads/2021-Darius-II-1.jpg
+  ΓÜá∩╕Å  LogoΦÖòτÉåσñ▒µòù∩╝îΣ╜┐τö¿σÄƒσºïURL: http://prowine.com.tw/newsite/wp-content/uploads/2021-Darius-II-1.jpg
+Γ£à Σ┐¥σ¡ÿΘàÆΦÄè: Darioush Darius II
+  ≡ƒîÉ σÿùΦ⌐ªσ╛₧σ«ÿτ╢▓τì▓σÅû Peter Franus Napa Valley τÜäΘ½ÿΦ│¬ΘçÅσ£ûτëç...
+  ≡ƒöì τé║ "Peter Franus Napa Valley" τöƒµêÉ 24 σÇïσÅ»Φâ╜τÜäσƒƒσÉì...
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.peter franus napa valley.fr
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://www.peter franus napa valley.fr σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://peter franus napa valley.fr
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://peter franus napa valley.fr σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.peter franus napa valley.com
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://www.peter franus napa valley.com σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://peter franus napa valley.com
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://peter franus napa valley.com σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.peter franus napa valley.net
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://www.peter franus napa valley.net σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://peter franus napa valley.net
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://peter franus napa valley.net σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.peterfranusnapavalley.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://peterfranusnapavalley.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.peterfranusnapavalley.com
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://peterfranusnapavalley.com
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.peterfranusnapavalley.net
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://peterfranusnapavalley.net
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.peter-franus-napa-valley.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://peter-franus-napa-valley.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.peter-franus-napa-valley.com
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://peter-franus-napa-valley.com
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.peter-franus-napa-valley.net
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://peter-franus-napa-valley.net
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.peter.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://peter.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.peter.com
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://peter.com
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.peter.net
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://peter.net
+  ≡ƒô╕ ΦÖòτÉåΘàÆΦÄèlogo: Peter Franus Napa Valley - http://prowine.com.tw/newsite/wp-content/uploads/H...
+≡ƒôÑ Σ╕ïΦ╝ëσ£ûτëç: http://prowine.com.tw/newsite/wp-content/uploads/HI_RES_PF_RED_WINE_NY_2007_001.jpg
+  ΓÜá∩╕Å  LogoΦÖòτÉåσñ▒µòù∩╝îΣ╜┐τö¿σÄƒσºïURL: http://prowine.com.tw/newsite/wp-content/uploads/HI_RES_PF_RED_WINE_NY_2007_001.jpg
+Γ£à Σ┐¥σ¡ÿΘàÆΦÄè: Peter Franus Napa Valley
+  ≡ƒîÉ σÿùΦ⌐ªσ╛₧σ«ÿτ╢▓τì▓σÅû Staglin τÜäΘ½ÿΦ│¬ΘçÅσ£ûτëç...
+  ≡ƒöì τé║ "Staglin" τöƒµêÉ 6 σÇïσÅ»Φâ╜τÜäσƒƒσÉì...
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.staglin.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://staglin.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.staglin.com
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://www.staglin.com σñ▒µòù: timeout of 10000ms exceeded
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://staglin.com
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.staglin.net
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://staglin.net
+  ≡ƒô╕ ΦÖòτÉåΘàÆΦÄèlogo: Staglin - http://prowine.com.tw/newsite/wp-content/uploads/S...
+≡ƒôÑ Σ╕ïΦ╝ëσ£ûτëç: http://prowine.com.tw/newsite/wp-content/uploads/St-18-Salus-Cabernet-Sauvignon.jpg
+  ΓÜá∩╕Å  LogoΦÖòτÉåσñ▒µòù∩╝îΣ╜┐τö¿σÄƒσºïURL: http://prowine.com.tw/newsite/wp-content/uploads/St-18-Salus-Cabernet-Sauvignon.jpg
+Γ£à Σ┐¥σ¡ÿΘàÆΦÄè: Staglin
+  ≡ƒîÉ σÿùΦ⌐ªσ╛₧σ«ÿτ╢▓τì▓σÅû Cartlidge & Browne τÜäΘ½ÿΦ│¬ΘçÅσ£ûτëç...
+  ≡ƒöì τé║ "Cartlidge & Browne" τöƒµêÉ 24 σÇïσÅ»Φâ╜τÜäσƒƒσÉì...
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.cartlidge & browne.fr
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://www.cartlidge & browne.fr σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://cartlidge & browne.fr
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://cartlidge & browne.fr σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.cartlidge & browne.com
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://www.cartlidge & browne.com σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://cartlidge & browne.com
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://cartlidge & browne.com σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.cartlidge & browne.net
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://www.cartlidge & browne.net σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://cartlidge & browne.net
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://cartlidge & browne.net σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.cartlidge&browne.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://cartlidge&browne.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.cartlidge&browne.com
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://cartlidge&browne.com
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.cartlidge&browne.net
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://cartlidge&browne.net
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.cartlidge-&-browne.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://cartlidge-&-browne.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.cartlidge-&-browne.com
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://cartlidge-&-browne.com
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.cartlidge-&-browne.net
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://cartlidge-&-browne.net
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.cartlidge.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://cartlidge.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.cartlidge.com
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://www.cartlidge.com σñ▒µòù: timeout of 10000ms exceeded
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://cartlidge.com
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://cartlidge.com σñ▒µòù: timeout of 10000ms exceeded
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.cartlidge.net
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://cartlidge.net
+  ≡ƒô╕ ΦÖòτÉåΘàÆΦÄèlogo: Cartlidge & Browne - http://prowine.com.tw/newsite/wp-content/uploads/C...
+≡ƒôÑ Σ╕ïΦ╝ëσ£ûτëç: http://prowine.com.tw/newsite/wp-content/uploads/Cartlidge-Browne-Chardonnay-2022.png
+  ΓÜá∩╕Å  LogoΦÖòτÉåσñ▒µòù∩╝îΣ╜┐τö¿σÄƒσºïURL: http://prowine.com.tw/newsite/wp-content/uploads/Cartlidge-Browne-Chardonnay-2022.png
+Γ£à Σ┐¥σ¡ÿΘàÆΦÄè: Cartlidge & Browne
+  ≡ƒîÉ σÿùΦ⌐ªσ╛₧σ«ÿτ╢▓τì▓σÅû Darioush τÜäΘ½ÿΦ│¬ΘçÅσ£ûτëç...
+  ≡ƒöì τé║ "Darioush" τöƒµêÉ 6 σÇïσÅ»Φâ╜τÜäσƒƒσÉì...
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.darioush.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://darioush.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.darioush.com
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://darioush.com
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.darioush.net
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://darioush.net
+  ≡ƒô╕ ΦÖòτÉåΘàÆΦÄèlogo: Darioush - http://prowine.com.tw/newsite/wp-content/uploads/2...
+≡ƒôÑ Σ╕ïΦ╝ëσ£ûτëç: http://prowine.com.tw/newsite/wp-content/uploads/2021-Cabernet.jpg
+  ΓÜá∩╕Å  LogoΦÖòτÉåσñ▒µòù∩╝îΣ╜┐τö¿σÄƒσºïURL: http://prowine.com.tw/newsite/wp-content/uploads/2021-Cabernet.jpg
+Γ£à Σ┐¥σ¡ÿΘàÆΦÄè: Darioush
+  ≡ƒîÉ σÿùΦ⌐ªσ╛₧σ«ÿτ╢▓τì▓σÅû Domaine Des Escaravailles La τÜäΘ½ÿΦ│¬ΘçÅσ£ûτëç...
+  ≡ƒöì τé║ "Domaine Des Escaravailles La" τöƒµêÉ 24 σÇïσÅ»Φâ╜τÜäσƒƒσÉì...
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.domaine des escaravailles la.fr
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://www.domaine des escaravailles la.fr σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://domaine des escaravailles la.fr
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://domaine des escaravailles la.fr σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.domaine des escaravailles la.com
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://www.domaine des escaravailles la.com σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://domaine des escaravailles la.com
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://domaine des escaravailles la.com σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.domaine des escaravailles la.net
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://www.domaine des escaravailles la.net σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://domaine des escaravailles la.net
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://domaine des escaravailles la.net σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.domainedesescaravaillesla.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://domainedesescaravaillesla.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.domainedesescaravaillesla.com
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://domainedesescaravaillesla.com
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.domainedesescaravaillesla.net
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://domainedesescaravaillesla.net
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.domaine-des-escaravailles-la.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://domaine-des-escaravailles-la.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.domaine-des-escaravailles-la.com
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://domaine-des-escaravailles-la.com
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.domaine-des-escaravailles-la.net
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://domaine-des-escaravailles-la.net
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.domaine.fr
+  Γ£à µë╛σê░Logo: https://www.domaine.fr/assets/new_ui/logo-1bf4ed691d8626ef8b...
+  Γ£à µêÉσèƒσ╛₧σ«ÿτ╢▓τì▓σÅûσ£ûτëç: https://www.domaine.fr
+  Γ£à Σ╜┐τö¿σ«ÿτ╢▓Logo: https://www.domaine.fr/assets/new_ui/logo-1bf4ed69...
+  ≡ƒô╕ ΦÖòτÉåΘàÆΦÄèlogo: Domaine Des Escaravailles La - https://www.domaine.fr/assets/new_ui/logo-1bf4ed69...
+≡ƒôÑ Σ╕ïΦ╝ëσ£ûτëç: https://www.domaine.fr/assets/new_ui/logo-1bf4ed691d8626ef8beea2a51fe4081909ba996e3fe2959903d567079929a3a4.svg
+  ΓÜá∩╕Å  LogoΦÖòτÉåσñ▒µòù∩╝îΣ╜┐τö¿σÄƒσºïURL: http://prowine.com.tw/newsite/wp-content/uploads/La-Ponce-Red-µ╡«τƒ│τ┤àΘàÆ.jpg
+Γ£à Σ┐¥σ¡ÿΘàÆΦÄè: Domaine Des Escaravailles La
+  ≡ƒîÉ σÿùΦ⌐ªσ╛₧σ«ÿτ╢▓τì▓σÅû Horseplay τÜäΘ½ÿΦ│¬ΘçÅσ£ûτëç...
+  ≡ƒöì τé║ "Horseplay" τöƒµêÉ 6 σÇïσÅ»Φâ╜τÜäσƒƒσÉì...
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.horseplay.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://horseplay.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.horseplay.com
+  Γ£à µë╛σê░Logo: https://www.horseplay.com/assets/logo-app-d6ba2d6dde0fe52e19...
+  Γ£à µêÉσèƒσ╛₧σ«ÿτ╢▓τì▓σÅûσ£ûτëç: https://www.horseplay.com
+  Γ£à Σ╜┐τö¿σ«ÿτ╢▓Logo: https://www.horseplay.com/assets/logo-app-d6ba2d6d...
+  ≡ƒô╕ ΦÖòτÉåΘàÆΦÄèlogo: Horseplay - https://www.horseplay.com/assets/logo-app-d6ba2d6d...
+≡ƒôÑ Σ╕ïΦ╝ëσ£ûτëç: https://www.horseplay.com/assets/logo-app-d6ba2d6dde0fe52e190eaef200db8cd82e3f0463a190a365b92196d282eda691.webp
+  ΓÜá∩╕Å  LogoΦÖòτÉåσñ▒µòù∩╝îΣ╜┐τö¿σÄƒσºïURL: http://prowine.com.tw/newsite/wp-content/uploads/NV-Horseplay-Cabernet-Sauvignon-Paso-Robles-high-res-1.png
+Γ£à Σ┐¥σ¡ÿΘàÆΦÄè: Horseplay
+  ≡ƒîÉ σÿùΦ⌐ªσ╛₧σ«ÿτ╢▓τì▓σÅû DiArie Vineyards τÜäΘ½ÿΦ│¬ΘçÅσ£ûτëç...
+  ≡ƒöì τé║ "DiArie Vineyards" τöƒµêÉ 6 σÇïσÅ»Φâ╜τÜäσƒƒσÉì...
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.diarie.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://diarie.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.diarie.com
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://diarie.com
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.diarie.net
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://diarie.net
+  ≡ƒô╕ ΦÖòτÉåΘàÆΦÄèlogo: DiArie Vineyards - http://prowine.com.tw/newsite/wp-content/uploads/C...
+≡ƒôÑ Σ╕ïΦ╝ëσ£ûτëç: http://prowine.com.tw/newsite/wp-content/uploads/C.G.-Di-Arie-Red-Blend-American-Legend-Vineyard-2014.png
+  ΓÜá∩╕Å  LogoΦÖòτÉåσñ▒µòù∩╝îΣ╜┐τö¿σÄƒσºïURL: http://prowine.com.tw/newsite/wp-content/uploads/C.G.-Di-Arie-Red-Blend-American-Legend-Vineyard-2014.png
+Γ£à Σ┐¥σ¡ÿΘàÆΦÄè: DiArie Vineyards
+  ≡ƒîÉ σÿùΦ⌐ªσ╛₧σ«ÿτ╢▓τì▓σÅû Hestan Stephanie τÜäΘ½ÿΦ│¬ΘçÅσ£ûτëç...
+  ≡ƒöì τé║ "Hestan Stephanie" τöƒµêÉ 24 σÇïσÅ»Φâ╜τÜäσƒƒσÉì...
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.hestan stephanie.fr
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://www.hestan stephanie.fr σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://hestan stephanie.fr
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://hestan stephanie.fr σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.hestan stephanie.com
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://www.hestan stephanie.com σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://hestan stephanie.com
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://hestan stephanie.com σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.hestan stephanie.net
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://www.hestan stephanie.net σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://hestan stephanie.net
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://hestan stephanie.net σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.hestanstephanie.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://hestanstephanie.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.hestanstephanie.com
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://hestanstephanie.com
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.hestanstephanie.net
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://hestanstephanie.net
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.hestan-stephanie.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://hestan-stephanie.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.hestan-stephanie.com
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://hestan-stephanie.com
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.hestan-stephanie.net
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://hestan-stephanie.net
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.hestan.fr
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://www.hestan.fr σñ▒µòù: getaddrinfo EAI_AGAIN www.hestan.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://hestan.fr
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://hestan.fr σñ▒µòù: getaddrinfo EAI_AGAIN hestan.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.hestan.com
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://www.hestan.com σñ▒µòù: Request failed with status code 403
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://hestan.com
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://hestan.com σñ▒µòù: Request failed with status code 403
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.hestan.net
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://hestan.net
+  ≡ƒô╕ ΦÖòτÉåΘàÆΦÄèlogo: Hestan Stephanie - http://prowine.com.tw/newsite/wp-content/uploads/H...
+≡ƒôÑ Σ╕ïΦ╝ëσ£ûτëç: http://prowine.com.tw/newsite/wp-content/uploads/Hestan-Stephanie-Merlot-3.jpg
+  ΓÜá∩╕Å  LogoΦÖòτÉåσñ▒µòù∩╝îΣ╜┐τö¿σÄƒσºïURL: http://prowine.com.tw/newsite/wp-content/uploads/Hestan-Stephanie-Merlot-3.jpg
+Γ£à Σ┐¥σ¡ÿΘàÆΦÄè: Hestan Stephanie
+  ≡ƒîÉ σÿùΦ⌐ªσ╛₧σ«ÿτ╢▓τì▓σÅû CaΓÇÖmomi Rosso di California τÜäΘ½ÿΦ│¬ΘçÅσ£ûτëç...
+  ≡ƒöì τé║ "CaΓÇÖmomi Rosso di California" τöƒµêÉ 24 σÇïσÅ»Φâ╜τÜäσƒƒσÉì...
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.caΓÇÖmomi rosso di california.fr
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://www.caΓÇÖmomi rosso di california.fr σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://caΓÇÖmomi rosso di california.fr
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://caΓÇÖmomi rosso di california.fr σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.caΓÇÖmomi rosso di california.com
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://www.caΓÇÖmomi rosso di california.com σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://caΓÇÖmomi rosso di california.com
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://caΓÇÖmomi rosso di california.com σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.caΓÇÖmomi rosso di california.net
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://www.caΓÇÖmomi rosso di california.net σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://caΓÇÖmomi rosso di california.net
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://caΓÇÖmomi rosso di california.net σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.caΓÇÖmomirossodicalifornia.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://caΓÇÖmomirossodicalifornia.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.caΓÇÖmomirossodicalifornia.com
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://caΓÇÖmomirossodicalifornia.com
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.caΓÇÖmomirossodicalifornia.net
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://caΓÇÖmomirossodicalifornia.net
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.caΓÇÖmomi-rosso-di-california.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://caΓÇÖmomi-rosso-di-california.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.caΓÇÖmomi-rosso-di-california.com
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://caΓÇÖmomi-rosso-di-california.com
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.caΓÇÖmomi-rosso-di-california.net
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://caΓÇÖmomi-rosso-di-california.net
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.caΓÇÖmomi.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://caΓÇÖmomi.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.caΓÇÖmomi.com
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://caΓÇÖmomi.com
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.caΓÇÖmomi.net
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://caΓÇÖmomi.net
+  ≡ƒô╕ ΦÖòτÉåΘàÆΦÄèlogo: CaΓÇÖmomi Rosso di California - http://prowine.com.tw/newsite/wp-content/uploads/C...
+≡ƒôÑ Σ╕ïΦ╝ëσ£ûτëç: http://prowine.com.tw/newsite/wp-content/uploads/Camomi-Rosso-di-California-2022.png
+  ΓÜá∩╕Å  LogoΦÖòτÉåσñ▒µòù∩╝îΣ╜┐τö¿σÄƒσºïURL: http://prowine.com.tw/newsite/wp-content/uploads/Camomi-Rosso-di-California-2022.png
+Γ£à Σ┐¥σ¡ÿΘàÆΦÄè: CaΓÇÖmomi Rosso di California
+  ≡ƒîÉ σÿùΦ⌐ªσ╛₧σ«ÿτ╢▓τì▓σÅû CaΓÇÖmomi Sparkling Brut NV τÜäΘ½ÿΦ│¬ΘçÅσ£ûτëç...
+  ≡ƒöì τé║ "CaΓÇÖmomi Sparkling Brut NV" τöƒµêÉ 24 σÇïσÅ»Φâ╜τÜäσƒƒσÉì...
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.caΓÇÖmomi sparkling brut nv.fr
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://www.caΓÇÖmomi sparkling brut nv.fr σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://caΓÇÖmomi sparkling brut nv.fr
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://caΓÇÖmomi sparkling brut nv.fr σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.caΓÇÖmomi sparkling brut nv.com
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://www.caΓÇÖmomi sparkling brut nv.com σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://caΓÇÖmomi sparkling brut nv.com
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://caΓÇÖmomi sparkling brut nv.com σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.caΓÇÖmomi sparkling brut nv.net
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://www.caΓÇÖmomi sparkling brut nv.net σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://caΓÇÖmomi sparkling brut nv.net
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://caΓÇÖmomi sparkling brut nv.net σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.caΓÇÖmomisparklingbrutnv.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://caΓÇÖmomisparklingbrutnv.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.caΓÇÖmomisparklingbrutnv.com
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://caΓÇÖmomisparklingbrutnv.com
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.caΓÇÖmomisparklingbrutnv.net
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://caΓÇÖmomisparklingbrutnv.net
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.caΓÇÖmomi-sparkling-brut-nv.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://caΓÇÖmomi-sparkling-brut-nv.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.caΓÇÖmomi-sparkling-brut-nv.com
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://caΓÇÖmomi-sparkling-brut-nv.com
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.caΓÇÖmomi-sparkling-brut-nv.net
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://caΓÇÖmomi-sparkling-brut-nv.net
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.caΓÇÖmomi.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://caΓÇÖmomi.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.caΓÇÖmomi.com
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://caΓÇÖmomi.com
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.caΓÇÖmomi.net
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://caΓÇÖmomi.net
+  ≡ƒô╕ ΦÖòτÉåΘàÆΦÄèlogo: CaΓÇÖmomi Sparkling Brut NV - http://prowine.com.tw/newsite/wp-content/uploads/C...
+≡ƒôÑ Σ╕ïΦ╝ëσ£ûτëç: http://prowine.com.tw/newsite/wp-content/uploads/Camomi-Sparkling-Brut-NV.png
+  ΓÜá∩╕Å  LogoΦÖòτÉåσñ▒µòù∩╝îΣ╜┐τö¿σÄƒσºïURL: http://prowine.com.tw/newsite/wp-content/uploads/Camomi-Sparkling-Brut-NV.png
+Γ£à Σ┐¥σ¡ÿΘàÆΦÄè: CaΓÇÖmomi Sparkling Brut NV
+  ≡ƒîÉ σÿùΦ⌐ªσ╛₧σ«ÿτ╢▓τì▓σÅû Lamborn 2200ΓÇ▓ Red Wine τÜäΘ½ÿΦ│¬ΘçÅσ£ûτëç...
+  ≡ƒöì τé║ "Lamborn 2200ΓÇ▓ Red Wine" τöƒµêÉ 24 σÇïσÅ»Φâ╜τÜäσƒƒσÉì...
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.lamborn 2200ΓÇ▓ red wine.fr
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://www.lamborn 2200ΓÇ▓ red wine.fr σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://lamborn 2200ΓÇ▓ red wine.fr
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://lamborn 2200ΓÇ▓ red wine.fr σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.lamborn 2200ΓÇ▓ red wine.com
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://www.lamborn 2200ΓÇ▓ red wine.com σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://lamborn 2200ΓÇ▓ red wine.com
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://lamborn 2200ΓÇ▓ red wine.com σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.lamborn 2200ΓÇ▓ red wine.net
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://www.lamborn 2200ΓÇ▓ red wine.net σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://lamborn 2200ΓÇ▓ red wine.net
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://lamborn 2200ΓÇ▓ red wine.net σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.lamborn2200ΓÇ▓redwine.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://lamborn2200ΓÇ▓redwine.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.lamborn2200ΓÇ▓redwine.com
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://lamborn2200ΓÇ▓redwine.com
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.lamborn2200ΓÇ▓redwine.net
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://lamborn2200ΓÇ▓redwine.net
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.lamborn-2200ΓÇ▓-red-wine.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://lamborn-2200ΓÇ▓-red-wine.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.lamborn-2200ΓÇ▓-red-wine.com
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://lamborn-2200ΓÇ▓-red-wine.com
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.lamborn-2200ΓÇ▓-red-wine.net
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://lamborn-2200ΓÇ▓-red-wine.net
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.lamborn.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://lamborn.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.lamborn.com
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://lamborn.com
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.lamborn.net
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://lamborn.net
+  ≡ƒô╕ ΦÖòτÉåΘàÆΦÄèlogo: Lamborn 2200ΓÇ▓ Red Wine - http://prowine.com.tw/newsite/wp-content/uploads/L...
+≡ƒôÑ Σ╕ïΦ╝ëσ£ûτëç: http://prowine.com.tw/newsite/wp-content/uploads/Lamborn-2200-Red-Wine-Blend-4.png
+  ΓÜá∩╕Å  LogoΦÖòτÉåσñ▒µòù∩╝îΣ╜┐τö¿σÄƒσºïURL: http://prowine.com.tw/newsite/wp-content/uploads/Lamborn-2200-Red-Wine-Blend-4.png
+Γ£à Σ┐¥σ¡ÿΘàÆΦÄè: Lamborn 2200ΓÇ▓ Red Wine
+  ≡ƒîÉ σÿùΦ⌐ªσ╛₧σ«ÿτ╢▓τì▓σÅû Lamborn τÜäΘ½ÿΦ│¬ΘçÅσ£ûτëç...
+  ≡ƒöì τé║ "Lamborn" τöƒµêÉ 6 σÇïσÅ»Φâ╜τÜäσƒƒσÉì...
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.lamborn.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://lamborn.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.lamborn.com
+  Γ£à µë╛σê░Logo: https://www.lamborn.com/assets/images/products/thumbnails/20...
+  Γ£à µêÉσèƒσ╛₧σ«ÿτ╢▓τì▓σÅûσ£ûτëç: https://www.lamborn.com
+  Γ£à Σ╜┐τö¿σ«ÿτ╢▓Logo: https://www.lamborn.com/assets/images/products/thu...
+  ≡ƒô╕ ΦÖòτÉåΘàÆΦÄèlogo: Lamborn - https://www.lamborn.com/assets/images/products/thu...
+≡ƒôÑ Σ╕ïΦ╝ëσ£ûτëç: https://www.lamborn.com/assets/images/products/thumbnails/2021Zin.png
+  ΓÜá∩╕Å  LogoΦÖòτÉåσñ▒µòù∩╝îΣ╜┐τö¿σÄƒσºïURL: http://prowine.com.tw/newsite/wp-content/uploads/2019-Lamborn-Cabernet-Sauvignon.png
+Γ£à Σ┐¥σ¡ÿΘàÆΦÄè: Lamborn
+  ≡ƒîÉ σÿùΦ⌐ªσ╛₧σ«ÿτ╢▓τì▓σÅû Peter Franus τÜäΘ½ÿΦ│¬ΘçÅσ£ûτëç...
+  ≡ƒöì τé║ "Peter Franus" τöƒµêÉ 24 σÇïσÅ»Φâ╜τÜäσƒƒσÉì...
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.peter franus.fr
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://www.peter franus.fr σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://peter franus.fr
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://peter franus.fr σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.peter franus.com
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://www.peter franus.com σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://peter franus.com
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://peter franus.com σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.peter franus.net
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://www.peter franus.net σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://peter franus.net
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://peter franus.net σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.peterfranus.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://peterfranus.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.peterfranus.com
+  Γ£à µë╛σê░Logo: https://peterfranus.com/wp-content/uploads/2025/07/cafinest....
+  Γ£à µêÉσèƒσ╛₧σ«ÿτ╢▓τì▓σÅûσ£ûτëç: https://www.peterfranus.com
+  Γ£à Σ╜┐τö¿σ«ÿτ╢▓Logo: https://peterfranus.com/wp-content/uploads/2025/07...
+  ≡ƒô╕ ΦÖòτÉåΘàÆΦÄèlogo: Peter Franus - https://peterfranus.com/wp-content/uploads/2025/07...
+≡ƒôÑ Σ╕ïΦ╝ëσ£ûτëç: https://peterfranus.com/wp-content/uploads/2025/07/cafinest.png
+  ΓÜá∩╕Å  LogoΦÖòτÉåσñ▒µòù∩╝îΣ╜┐τö¿σÄƒσºïURL: http://prowine.com.tw/newsite/wp-content/uploads/PF-2023-Brandlin-Zinfandel.jpg
+Γ£à Σ┐¥σ¡ÿΘàÆΦÄè: Peter Franus
+  ≡ƒîÉ σÿùΦ⌐ªσ╛₧σ«ÿτ╢▓τì▓σÅû Peter Franus Lake County τÜäΘ½ÿΦ│¬ΘçÅσ£ûτëç...
+  ≡ƒöì τé║ "Peter Franus Lake County" τöƒµêÉ 24 σÇïσÅ»Φâ╜τÜäσƒƒσÉì...
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.peter franus lake county.fr
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://www.peter franus lake county.fr σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://peter franus lake county.fr
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://peter franus lake county.fr σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.peter franus lake county.com
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://www.peter franus lake county.com σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://peter franus lake county.com
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://peter franus lake county.com σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.peter franus lake county.net
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://www.peter franus lake county.net σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://peter franus lake county.net
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://peter franus lake county.net σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.peterfranuslakecounty.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://peterfranuslakecounty.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.peterfranuslakecounty.com
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://peterfranuslakecounty.com
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.peterfranuslakecounty.net
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://peterfranuslakecounty.net
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.peter-franus-lake-county.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://peter-franus-lake-county.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.peter-franus-lake-county.com
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://peter-franus-lake-county.com
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.peter-franus-lake-county.net
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://peter-franus-lake-county.net
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.peter.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://peter.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.peter.com
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://peter.com
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.peter.net
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://peter.net
+  ≡ƒô╕ ΦÖòτÉåΘàÆΦÄèlogo: Peter Franus Lake County - http://prowine.com.tw/newsite/wp-content/uploads/2...
+≡ƒôÑ Σ╕ïΦ╝ëσ£ûτëç: http://prowine.com.tw/newsite/wp-content/uploads/2024-Lake-County-Albari├▒o.png
+  ΓÜá∩╕Å  LogoΦÖòτÉåσñ▒µòù∩╝îΣ╜┐τö¿σÄƒσºïURL: http://prowine.com.tw/newsite/wp-content/uploads/2024-Lake-County-Albari├▒o.png
+Γ£à Σ┐¥σ¡ÿΘàÆΦÄè: Peter Franus Lake County
+  ≡ƒîÉ σÿùΦ⌐ªσ╛₧σ«ÿτ╢▓τì▓σÅû CaΓÇÖmomi τÜäΘ½ÿΦ│¬ΘçÅσ£ûτëç...
+  ≡ƒöì τé║ "CaΓÇÖmomi" τöƒµêÉ 6 σÇïσÅ»Φâ╜τÜäσƒƒσÉì...
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.caΓÇÖmomi.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://caΓÇÖmomi.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.caΓÇÖmomi.com
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://caΓÇÖmomi.com
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.caΓÇÖmomi.net
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://caΓÇÖmomi.net
+  ≡ƒô╕ ΦÖòτÉåΘàÆΦÄèlogo: CaΓÇÖmomi - http://prowine.com.tw/newsite/wp-content/uploads/C...
+≡ƒôÑ Σ╕ïΦ╝ëσ£ûτëç: http://prowine.com.tw/newsite/wp-content/uploads/Camomi-Sauvignon-Blanc-2023.jpg
+  ΓÜá∩╕Å  LogoΦÖòτÉåσñ▒µòù∩╝îΣ╜┐τö¿σÄƒσºïURL: http://prowine.com.tw/newsite/wp-content/uploads/Camomi-Sauvignon-Blanc-2023.jpg
+Γ£à Σ┐¥σ¡ÿΘàÆΦÄè: CaΓÇÖmomi
+  ≡ƒîÉ σÿùΦ⌐ªσ╛₧σ«ÿτ╢▓τì▓σÅû Domaine De La Bastidonne τÜäΘ½ÿΦ│¬ΘçÅσ£ûτëç...
+  ≡ƒöì τé║ "Domaine De La Bastidonne" τöƒµêÉ 24 σÇïσÅ»Φâ╜τÜäσƒƒσÉì...
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.domaine de la bastidonne.fr
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://www.domaine de la bastidonne.fr σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://domaine de la bastidonne.fr
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://domaine de la bastidonne.fr σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.domaine de la bastidonne.com
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://www.domaine de la bastidonne.com σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://domaine de la bastidonne.com
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://domaine de la bastidonne.com σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.domaine de la bastidonne.net
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://www.domaine de la bastidonne.net σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://domaine de la bastidonne.net
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://domaine de la bastidonne.net σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.domainedelabastidonne.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://domainedelabastidonne.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.domainedelabastidonne.com
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://domainedelabastidonne.com
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.domainedelabastidonne.net
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://domainedelabastidonne.net
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.domaine-de-la-bastidonne.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://domaine-de-la-bastidonne.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.domaine-de-la-bastidonne.com
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://domaine-de-la-bastidonne.com
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.domaine-de-la-bastidonne.net
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://domaine-de-la-bastidonne.net
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.domaine.fr
+  Γ£à µë╛σê░Logo: https://www.domaine.fr/assets/new_ui/logo-1bf4ed691d8626ef8b...
+  Γ£à µêÉσèƒσ╛₧σ«ÿτ╢▓τì▓σÅûσ£ûτëç: https://www.domaine.fr
+  Γ£à Σ╜┐τö¿σ«ÿτ╢▓Logo: https://www.domaine.fr/assets/new_ui/logo-1bf4ed69...
+  ≡ƒô╕ ΦÖòτÉåΘàÆΦÄèlogo: Domaine De La Bastidonne - https://www.domaine.fr/assets/new_ui/logo-1bf4ed69...
+≡ƒôÑ Σ╕ïΦ╝ëσ£ûτëç: https://www.domaine.fr/assets/new_ui/logo-1bf4ed691d8626ef8beea2a51fe4081909ba996e3fe2959903d567079929a3a4.svg
+  ΓÜá∩╕Å  LogoΦÖòτÉåσñ▒µòù∩╝îΣ╜┐τö¿σÄƒσºïURL: http://prowine.com.tw/newsite/wp-content/uploads/DDB-Les-Courtilles-2020.jpg
+Γ£à Σ┐¥σ¡ÿΘàÆΦÄè: Domaine De La Bastidonne
+  ≡ƒîÉ σÿùΦ⌐ªσ╛₧σ«ÿτ╢▓τì▓σÅû Domaine des Escaravailles Les τÜäΘ½ÿΦ│¬ΘçÅσ£ûτëç...
+  ≡ƒöì τé║ "Domaine des Escaravailles Les" τöƒµêÉ 24 σÇïσÅ»Φâ╜τÜäσƒƒσÉì...
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.domaine des escaravailles les.fr
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://www.domaine des escaravailles les.fr σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://domaine des escaravailles les.fr
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://domaine des escaravailles les.fr σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.domaine des escaravailles les.com
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://www.domaine des escaravailles les.com σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://domaine des escaravailles les.com
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://domaine des escaravailles les.com σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.domaine des escaravailles les.net
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://www.domaine des escaravailles les.net σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://domaine des escaravailles les.net
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://domaine des escaravailles les.net σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.domainedesescaravaillesles.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://domainedesescaravaillesles.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.domainedesescaravaillesles.com
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://domainedesescaravaillesles.com
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.domainedesescaravaillesles.net
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://domainedesescaravaillesles.net
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.domaine-des-escaravailles-les.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://domaine-des-escaravailles-les.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.domaine-des-escaravailles-les.com
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://domaine-des-escaravailles-les.com
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.domaine-des-escaravailles-les.net
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://domaine-des-escaravailles-les.net
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.domaine.fr
+  Γ£à µë╛σê░Logo: https://www.domaine.fr/assets/new_ui/logo-1bf4ed691d8626ef8b...
+  Γ£à µêÉσèƒσ╛₧σ«ÿτ╢▓τì▓σÅûσ£ûτëç: https://www.domaine.fr
+  Γ£à Σ╜┐τö¿σ«ÿτ╢▓Logo: https://www.domaine.fr/assets/new_ui/logo-1bf4ed69...
+  ≡ƒô╕ ΦÖòτÉåΘàÆΦÄèlogo: Domaine des Escaravailles Les - https://www.domaine.fr/assets/new_ui/logo-1bf4ed69...
+≡ƒôÑ Σ╕ïΦ╝ëσ£ûτëç: https://www.domaine.fr/assets/new_ui/logo-1bf4ed691d8626ef8beea2a51fe4081909ba996e3fe2959903d567079929a3a4.svg
+  ΓÜá∩╕Å  LogoΦÖòτÉåσñ▒µòù∩╝îΣ╜┐τö¿σÄƒσºïURL: http://prowine.com.tw/newsite/wp-content/uploads/Domaine-Des-Escaravailles-Les-Antimagnes-Rose-2024.jpg
+Γ£à Σ┐¥σ¡ÿΘàÆΦÄè: Domaine des Escaravailles Les
+  ≡ƒîÉ σÿùΦ⌐ªσ╛₧σ«ÿτ╢▓τì▓σÅû Domaine Des Escaravailles Heritage τÜäΘ½ÿΦ│¬ΘçÅσ£ûτëç...
+  ≡ƒöì τé║ "Domaine Des Escaravailles Heritage" τöƒµêÉ 24 σÇïσÅ»Φâ╜τÜäσƒƒσÉì...
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.domaine des escaravailles heritage.fr
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://www.domaine des escaravailles heritage.fr σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://domaine des escaravailles heritage.fr
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://domaine des escaravailles heritage.fr σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.domaine des escaravailles heritage.com
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://www.domaine des escaravailles heritage.com σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://domaine des escaravailles heritage.com
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://domaine des escaravailles heritage.com σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.domaine des escaravailles heritage.net
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://www.domaine des escaravailles heritage.net σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://domaine des escaravailles heritage.net
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://domaine des escaravailles heritage.net σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.domainedesescaravaillesheritage.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://domainedesescaravaillesheritage.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.domainedesescaravaillesheritage.com
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://domainedesescaravaillesheritage.com
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.domainedesescaravaillesheritage.net
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://domainedesescaravaillesheritage.net
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.domaine-des-escaravailles-heritage.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://domaine-des-escaravailles-heritage.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.domaine-des-escaravailles-heritage.com
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://domaine-des-escaravailles-heritage.com
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.domaine-des-escaravailles-heritage.net
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://domaine-des-escaravailles-heritage.net
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.domaine.fr
+  Γ£à µë╛σê░Logo: https://www.domaine.fr/assets/new_ui/logo-1bf4ed691d8626ef8b...
+  Γ£à µêÉσèƒσ╛₧σ«ÿτ╢▓τì▓σÅûσ£ûτëç: https://www.domaine.fr
+  Γ£à Σ╜┐τö¿σ«ÿτ╢▓Logo: https://www.domaine.fr/assets/new_ui/logo-1bf4ed69...
+  ≡ƒô╕ ΦÖòτÉåΘàÆΦÄèlogo: Domaine Des Escaravailles Heritage - https://www.domaine.fr/assets/new_ui/logo-1bf4ed69...
+≡ƒôÑ Σ╕ïΦ╝ëσ£ûτëç: https://www.domaine.fr/assets/new_ui/logo-1bf4ed691d8626ef8beea2a51fe4081909ba996e3fe2959903d567079929a3a4.svg
+  ΓÜá∩╕Å  LogoΦÖòτÉåσñ▒µòù∩╝îΣ╜┐τö¿σÄƒσºïURL: http://prowine.com.tw/newsite/wp-content/uploads/DdE-Heritage-1924-σé│τ╡▒-5.png
+Γ£à Σ┐¥σ¡ÿΘàÆΦÄè: Domaine Des Escaravailles Heritage
+  ≡ƒîÉ σÿùΦ⌐ªσ╛₧σ«ÿτ╢▓τì▓σÅû Dissaux Brochot Brut Prestige τÜäΘ½ÿΦ│¬ΘçÅσ£ûτëç...
+  ≡ƒöì τé║ "Dissaux Brochot Brut Prestige" τöƒµêÉ 24 σÇïσÅ»Φâ╜τÜäσƒƒσÉì...
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.dissaux brochot brut prestige.fr
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://www.dissaux brochot brut prestige.fr σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://dissaux brochot brut prestige.fr
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://dissaux brochot brut prestige.fr σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.dissaux brochot brut prestige.com
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://www.dissaux brochot brut prestige.com σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://dissaux brochot brut prestige.com
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://dissaux brochot brut prestige.com σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.dissaux brochot brut prestige.net
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://www.dissaux brochot brut prestige.net σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://dissaux brochot brut prestige.net
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://dissaux brochot brut prestige.net σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.dissauxbrochotbrutprestige.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://dissauxbrochotbrutprestige.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.dissauxbrochotbrutprestige.com
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://dissauxbrochotbrutprestige.com
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.dissauxbrochotbrutprestige.net
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://dissauxbrochotbrutprestige.net
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.dissaux-brochot-brut-prestige.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://dissaux-brochot-brut-prestige.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.dissaux-brochot-brut-prestige.com
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://dissaux-brochot-brut-prestige.com
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.dissaux-brochot-brut-prestige.net
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://dissaux-brochot-brut-prestige.net
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.dissaux.fr
+  Γ£à µë╛σê░Logo: https://dissaux.fr/wp-content/uploads/2022/12/logo-DISSAUX-1...
+  Γ£à µêÉσèƒσ╛₧σ«ÿτ╢▓τì▓σÅûσ£ûτëç: https://www.dissaux.fr
+  Γ£à Σ╜┐τö¿σ«ÿτ╢▓Logo: https://dissaux.fr/wp-content/uploads/2022/12/logo...
+  ≡ƒô╕ ΦÖòτÉåΘàÆΦÄèlogo: Dissaux Brochot Brut Prestige - https://dissaux.fr/wp-content/uploads/2022/12/logo...
+≡ƒôÑ Σ╕ïΦ╝ëσ£ûτëç: https://dissaux.fr/wp-content/uploads/2022/12/logo-DISSAUX-1024x260.png
+  ΓÜá∩╕Å  LogoΦÖòτÉåσñ▒µòù∩╝îΣ╜┐τö¿σÄƒσºïURL: http://prowine.com.tw/newsite/wp-content/uploads/Dissaux-Brochot-Brut-Prestige-Champagne.png
+Γ£à Σ┐¥σ¡ÿΘàÆΦÄè: Dissaux Brochot Brut Prestige
+  ≡ƒîÉ σÿùΦ⌐ªσ╛₧σ«ÿτ╢▓τì▓σÅû La Bastide Saint Dominique τÜäΘ½ÿΦ│¬ΘçÅσ£ûτëç...
+  ≡ƒöì τé║ "La Bastide Saint Dominique" τöƒµêÉ 24 σÇïσÅ»Φâ╜τÜäσƒƒσÉì...
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.la bastide saint dominique.fr
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://www.la bastide saint dominique.fr σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://la bastide saint dominique.fr
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://la bastide saint dominique.fr σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.la bastide saint dominique.com
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://www.la bastide saint dominique.com σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://la bastide saint dominique.com
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://la bastide saint dominique.com σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.la bastide saint dominique.net
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://www.la bastide saint dominique.net σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://la bastide saint dominique.net
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://la bastide saint dominique.net σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.labastidesaintdominique.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://labastidesaintdominique.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.labastidesaintdominique.com
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://labastidesaintdominique.com
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.labastidesaintdominique.net
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://labastidesaintdominique.net
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.la-bastide-saint-dominique.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://la-bastide-saint-dominique.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.la-bastide-saint-dominique.com
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://la-bastide-saint-dominique.com
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.la-bastide-saint-dominique.net
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://la-bastide-saint-dominique.net
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.la.fr
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://www.la.fr σñ▒µòù: timeout of 10000ms exceeded
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://la.fr
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://la.fr σñ▒µòù: certificate has expired
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.la.com
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://la.com
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.la.net
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://la.net
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://la.net σñ▒µòù: timeout of 10000ms exceeded
+  ≡ƒô╕ ΦÖòτÉåΘàÆΦÄèlogo: La Bastide Saint Dominique - http://prowine.com.tw/newsite/wp-content/uploads/B...
+≡ƒôÑ Σ╕ïΦ╝ëσ£ûτëç: http://prowine.com.tw/newsite/wp-content/uploads/BSD-C├┤tes-Du-Rh├┤ne-Red-2023.png
+  ΓÜá∩╕Å  LogoΦÖòτÉåσñ▒µòù∩╝îΣ╜┐τö¿σÄƒσºïURL: http://prowine.com.tw/newsite/wp-content/uploads/BSD-C├┤tes-Du-Rh├┤ne-Red-2023.png
+Γ£à Σ┐¥σ¡ÿΘàÆΦÄè: La Bastide Saint Dominique
+  ≡ƒîÉ σÿùΦ⌐ªσ╛₧σ«ÿτ╢▓τì▓σÅû La Bastide Saint Dominique Secrets de Pignan, Ch├óteauneuf τÜäΘ½ÿΦ│¬ΘçÅσ£ûτëç...
+  ≡ƒöì τé║ "La Bastide Saint Dominique Secrets de Pignan, Ch├óteauneuf" τöƒµêÉ 24 σÇïσÅ»Φâ╜τÜäσƒƒσÉì...
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.la bastide saint dominique secrets de pignan, ch├óteauneuf.fr
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://www.la bastide saint dominique secrets de pignan, ch├óteauneuf.fr σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://la bastide saint dominique secrets de pignan, ch├óteauneuf.fr
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://la bastide saint dominique secrets de pignan, ch├óteauneuf.fr σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.la bastide saint dominique secrets de pignan, ch├óteauneuf.com
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://www.la bastide saint dominique secrets de pignan, ch├óteauneuf.com σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://la bastide saint dominique secrets de pignan, ch├óteauneuf.com
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://la bastide saint dominique secrets de pignan, ch├óteauneuf.com σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.la bastide saint dominique secrets de pignan, ch├óteauneuf.net
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://www.la bastide saint dominique secrets de pignan, ch├óteauneuf.net σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://la bastide saint dominique secrets de pignan, ch├óteauneuf.net
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://la bastide saint dominique secrets de pignan, ch├óteauneuf.net σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.labastidesaintdominiquesecretsdepignan,ch├óteauneuf.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://labastidesaintdominiquesecretsdepignan,ch├óteauneuf.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.labastidesaintdominiquesecretsdepignan,ch├óteauneuf.com
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://labastidesaintdominiquesecretsdepignan,ch├óteauneuf.com
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.labastidesaintdominiquesecretsdepignan,ch├óteauneuf.net
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://labastidesaintdominiquesecretsdepignan,ch├óteauneuf.net
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.la-bastide-saint-dominique-secrets-de-pignan,-ch├óteauneuf.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://la-bastide-saint-dominique-secrets-de-pignan,-ch├óteauneuf.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.la-bastide-saint-dominique-secrets-de-pignan,-ch├óteauneuf.com
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://la-bastide-saint-dominique-secrets-de-pignan,-ch├óteauneuf.com
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.la-bastide-saint-dominique-secrets-de-pignan,-ch├óteauneuf.net
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://la-bastide-saint-dominique-secrets-de-pignan,-ch├óteauneuf.net
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.la.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://la.fr
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://la.fr σñ▒µòù: certificate has expired
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.la.com
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://la.com
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.la.net
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://la.net
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://la.net σñ▒µòù: timeout of 10000ms exceeded
+  ≡ƒô╕ ΦÖòτÉåΘàÆΦÄèlogo: La Bastide Saint Dominique Secrets de Pignan, Ch├óteauneuf - http://prowine.com.tw/newsite/wp-content/uploads/B...
+≡ƒôÑ Σ╕ïΦ╝ëσ£ûτëç: http://prowine.com.tw/newsite/wp-content/uploads/BSD-Secrets-de-Pigna-2022.png
+  ΓÜá∩╕Å  LogoΦÖòτÉåσñ▒µòù∩╝îΣ╜┐τö¿σÄƒσºïURL: http://prowine.com.tw/newsite/wp-content/uploads/BSD-Secrets-de-Pigna-2022.png
+Γ£à Σ┐¥σ¡ÿΘàÆΦÄè: La Bastide Saint Dominique Secrets de Pignan, Ch├óteauneuf
+  ≡ƒîÉ σÿùΦ⌐ªσ╛₧σ«ÿτ╢▓τì▓σÅû La Bastide Saint Dominique Ch├óteauneuf τÜäΘ½ÿΦ│¬ΘçÅσ£ûτëç...
+  ≡ƒöì τé║ "La Bastide Saint Dominique Ch├óteauneuf" τöƒµêÉ 24 σÇïσÅ»Φâ╜τÜäσƒƒσÉì...
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.la bastide saint dominique ch├óteauneuf.fr
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://www.la bastide saint dominique ch├óteauneuf.fr σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://la bastide saint dominique ch├óteauneuf.fr
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://la bastide saint dominique ch├óteauneuf.fr σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.la bastide saint dominique ch├óteauneuf.com
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://www.la bastide saint dominique ch├óteauneuf.com σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://la bastide saint dominique ch├óteauneuf.com
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://la bastide saint dominique ch├óteauneuf.com σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.la bastide saint dominique ch├óteauneuf.net
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://www.la bastide saint dominique ch├óteauneuf.net σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://la bastide saint dominique ch├óteauneuf.net
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://la bastide saint dominique ch├óteauneuf.net σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.labastidesaintdominiquech├óteauneuf.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://labastidesaintdominiquech├óteauneuf.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.labastidesaintdominiquech├óteauneuf.com
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://labastidesaintdominiquech├óteauneuf.com
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.labastidesaintdominiquech├óteauneuf.net
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://labastidesaintdominiquech├óteauneuf.net
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.la-bastide-saint-dominique-ch├óteauneuf.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://la-bastide-saint-dominique-ch├óteauneuf.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.la-bastide-saint-dominique-ch├óteauneuf.com
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://la-bastide-saint-dominique-ch├óteauneuf.com
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.la-bastide-saint-dominique-ch├óteauneuf.net
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://la-bastide-saint-dominique-ch├óteauneuf.net
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.la.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://la.fr
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://la.fr σñ▒µòù: certificate has expired
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.la.com
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://la.com
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.la.net
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://la.net
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://la.net σñ▒µòù: timeout of 10000ms exceeded
+  ≡ƒô╕ ΦÖòτÉåΘàÆΦÄèlogo: La Bastide Saint Dominique Ch├óteauneuf - http://prowine.com.tw/newsite/wp-content/uploads/B...
+≡ƒôÑ Σ╕ïΦ╝ëσ£ûτëç: http://prowine.com.tw/newsite/wp-content/uploads/BSD-CNDP-τ▓╛Θü╕τÖ╜ΘàÆ-2021-2.png
+  ΓÜá∩╕Å  LogoΦÖòτÉåσñ▒µòù∩╝îΣ╜┐τö¿σÄƒσºïURL: http://prowine.com.tw/newsite/wp-content/uploads/BSD-CNDP-τ▓╛Θü╕τÖ╜ΘàÆ-2021-2.png
+Γ£à Σ┐¥σ¡ÿΘàÆΦÄè: La Bastide Saint Dominique Ch├óteauneuf
+  ≡ƒîÉ σÿùΦ⌐ªσ╛₧σ«ÿτ╢▓τì▓σÅû La Bastide Saint Dominique Les Hesperides, Ch├óteauneuf τÜäΘ½ÿΦ│¬ΘçÅσ£ûτëç...
+  ≡ƒöì τé║ "La Bastide Saint Dominique Les Hesperides, Ch├óteauneuf" τöƒµêÉ 24 σÇïσÅ»Φâ╜τÜäσƒƒσÉì...
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.la bastide saint dominique les hesperides, ch├óteauneuf.fr
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://www.la bastide saint dominique les hesperides, ch├óteauneuf.fr σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://la bastide saint dominique les hesperides, ch├óteauneuf.fr
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://la bastide saint dominique les hesperides, ch├óteauneuf.fr σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.la bastide saint dominique les hesperides, ch├óteauneuf.com
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://www.la bastide saint dominique les hesperides, ch├óteauneuf.com σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://la bastide saint dominique les hesperides, ch├óteauneuf.com
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://la bastide saint dominique les hesperides, ch├óteauneuf.com σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.la bastide saint dominique les hesperides, ch├óteauneuf.net
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://www.la bastide saint dominique les hesperides, ch├óteauneuf.net σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://la bastide saint dominique les hesperides, ch├óteauneuf.net
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://la bastide saint dominique les hesperides, ch├óteauneuf.net σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.labastidesaintdominiqueleshesperides,ch├óteauneuf.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://labastidesaintdominiqueleshesperides,ch├óteauneuf.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.labastidesaintdominiqueleshesperides,ch├óteauneuf.com
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://labastidesaintdominiqueleshesperides,ch├óteauneuf.com
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.labastidesaintdominiqueleshesperides,ch├óteauneuf.net
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://labastidesaintdominiqueleshesperides,ch├óteauneuf.net
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.la-bastide-saint-dominique-les-hesperides,-ch├óteauneuf.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://la-bastide-saint-dominique-les-hesperides,-ch├óteauneuf.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.la-bastide-saint-dominique-les-hesperides,-ch├óteauneuf.com
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://la-bastide-saint-dominique-les-hesperides,-ch├óteauneuf.com
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.la-bastide-saint-dominique-les-hesperides,-ch├óteauneuf.net
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://la-bastide-saint-dominique-les-hesperides,-ch├óteauneuf.net
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.la.fr
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://www.la.fr σñ▒µòù: timeout of 10000ms exceeded
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://la.fr
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://la.fr σñ▒µòù: certificate has expired
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.la.com
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://la.com
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.la.net
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://la.net
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://la.net σñ▒µòù: timeout of 10000ms exceeded
+  ≡ƒô╕ ΦÖòτÉåΘàÆΦÄèlogo: La Bastide Saint Dominique Les Hesperides, Ch├óteauneuf - http://prowine.com.tw/newsite/wp-content/uploads/L...
+≡ƒôÑ Σ╕ïΦ╝ëσ£ûτëç: http://prowine.com.tw/newsite/wp-content/uploads/Les-Hesperides.jpg
+  ΓÜá∩╕Å  LogoΦÖòτÉåσñ▒µòù∩╝îΣ╜┐τö¿σÄƒσºïURL: http://prowine.com.tw/newsite/wp-content/uploads/Les-Hesperides.jpg
+Γ£à Σ┐¥σ¡ÿΘàÆΦÄè: La Bastide Saint Dominique Les Hesperides, Ch├óteauneuf
+  ≡ƒîÉ σÿùΦ⌐ªσ╛₧σ«ÿτ╢▓τì▓σÅû Bodegas Leza Garcia Tinto τÜäΘ½ÿΦ│¬ΘçÅσ£ûτëç...
+  ≡ƒöì τé║ "Bodegas Leza Garcia Tinto" τöƒµêÉ 24 σÇïσÅ»Φâ╜τÜäσƒƒσÉì...
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.bodegas leza garcia tinto.fr
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://www.bodegas leza garcia tinto.fr σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://bodegas leza garcia tinto.fr
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://bodegas leza garcia tinto.fr σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.bodegas leza garcia tinto.com
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://www.bodegas leza garcia tinto.com σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://bodegas leza garcia tinto.com
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://bodegas leza garcia tinto.com σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.bodegas leza garcia tinto.net
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://www.bodegas leza garcia tinto.net σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://bodegas leza garcia tinto.net
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://bodegas leza garcia tinto.net σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.bodegaslezagarciatinto.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://bodegaslezagarciatinto.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.bodegaslezagarciatinto.com
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://bodegaslezagarciatinto.com
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.bodegaslezagarciatinto.net
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://bodegaslezagarciatinto.net
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.bodegas-leza-garcia-tinto.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://bodegas-leza-garcia-tinto.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.bodegas-leza-garcia-tinto.com
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://bodegas-leza-garcia-tinto.com
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.bodegas-leza-garcia-tinto.net
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://bodegas-leza-garcia-tinto.net
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.bodegas.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://bodegas.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.bodegas.com
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://bodegas.com
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.bodegas.net
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://bodegas.net
+  ≡ƒô╕ ΦÖòτÉåΘàÆΦÄèlogo: Bodegas Leza Garcia Tinto - http://prowine.com.tw/newsite/wp-content/uploads/L...
+≡ƒôÑ Σ╕ïΦ╝ëσ£ûτëç: http://prowine.com.tw/newsite/wp-content/uploads/Leza-Garcia-Tinto-Familia-Crianza.jpg
+  ΓÜá∩╕Å  LogoΦÖòτÉåσñ▒µòù∩╝îΣ╜┐τö¿σÄƒσºïURL: http://prowine.com.tw/newsite/wp-content/uploads/Leza-Garcia-Tinto-Familia-Crianza.jpg
+Γ£à Σ┐¥σ¡ÿΘàÆΦÄè: Bodegas Leza Garcia Tinto
+  ≡ƒîÉ σÿùΦ⌐ªσ╛₧σ«ÿτ╢▓τì▓σÅû Bodegas Leza Garcia Reserva τÜäΘ½ÿΦ│¬ΘçÅσ£ûτëç...
+  ≡ƒöì τé║ "Bodegas Leza Garcia Reserva" τöƒµêÉ 24 σÇïσÅ»Φâ╜τÜäσƒƒσÉì...
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.bodegas leza garcia reserva.fr
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://www.bodegas leza garcia reserva.fr σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://bodegas leza garcia reserva.fr
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://bodegas leza garcia reserva.fr σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.bodegas leza garcia reserva.com
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://www.bodegas leza garcia reserva.com σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://bodegas leza garcia reserva.com
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://bodegas leza garcia reserva.com σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.bodegas leza garcia reserva.net
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://www.bodegas leza garcia reserva.net σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://bodegas leza garcia reserva.net
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://bodegas leza garcia reserva.net σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.bodegaslezagarciareserva.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://bodegaslezagarciareserva.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.bodegaslezagarciareserva.com
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://bodegaslezagarciareserva.com
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.bodegaslezagarciareserva.net
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://bodegaslezagarciareserva.net
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.bodegas-leza-garcia-reserva.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://bodegas-leza-garcia-reserva.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.bodegas-leza-garcia-reserva.com
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://bodegas-leza-garcia-reserva.com
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.bodegas-leza-garcia-reserva.net
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://bodegas-leza-garcia-reserva.net
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.bodegas.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://bodegas.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.bodegas.com
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://bodegas.com
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.bodegas.net
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://bodegas.net
+  ≡ƒô╕ ΦÖòτÉåΘàÆΦÄèlogo: Bodegas Leza Garcia Reserva - http://prowine.com.tw/newsite/wp-content/uploads/B...
+≡ƒôÑ Σ╕ïΦ╝ëσ£ûτëç: http://prowine.com.tw/newsite/wp-content/uploads/Bodegas-Leza-Garcia-Reserva-2015.png
+  ΓÜá∩╕Å  LogoΦÖòτÉåσñ▒µòù∩╝îΣ╜┐τö¿σÄƒσºïURL: http://prowine.com.tw/newsite/wp-content/uploads/Bodegas-Leza-Garcia-Reserva-2015.png
+Γ£à Σ┐¥σ¡ÿΘàÆΦÄè: Bodegas Leza Garcia Reserva
+  ≡ƒîÉ σÿùΦ⌐ªσ╛₧σ«ÿτ╢▓τì▓σÅû Bodegas Leza Garcia ARDERIUS τÜäΘ½ÿΦ│¬ΘçÅσ£ûτëç...
+  ≡ƒöì τé║ "Bodegas Leza Garcia ARDERIUS" τöƒµêÉ 24 σÇïσÅ»Φâ╜τÜäσƒƒσÉì...
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.bodegas leza garcia arderius.fr
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://www.bodegas leza garcia arderius.fr σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://bodegas leza garcia arderius.fr
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://bodegas leza garcia arderius.fr σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.bodegas leza garcia arderius.com
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://www.bodegas leza garcia arderius.com σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://bodegas leza garcia arderius.com
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://bodegas leza garcia arderius.com σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.bodegas leza garcia arderius.net
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://www.bodegas leza garcia arderius.net σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://bodegas leza garcia arderius.net
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://bodegas leza garcia arderius.net σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.bodegaslezagarciaarderius.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://bodegaslezagarciaarderius.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.bodegaslezagarciaarderius.com
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://bodegaslezagarciaarderius.com
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.bodegaslezagarciaarderius.net
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://bodegaslezagarciaarderius.net
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.bodegas-leza-garcia-arderius.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://bodegas-leza-garcia-arderius.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.bodegas-leza-garcia-arderius.com
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://bodegas-leza-garcia-arderius.com
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.bodegas-leza-garcia-arderius.net
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://bodegas-leza-garcia-arderius.net
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.bodegas.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://bodegas.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.bodegas.com
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://bodegas.com
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.bodegas.net
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://bodegas.net
+  ≡ƒô╕ ΦÖòτÉåΘàÆΦÄèlogo: Bodegas Leza Garcia ARDERIUS - http://prowine.com.tw/newsite/wp-content/uploads/A...
+≡ƒôÑ Σ╕ïΦ╝ëσ£ûτëç: http://prowine.com.tw/newsite/wp-content/uploads/Arderius-Tinto-White-Wine-2022.jpg
+  ΓÜá∩╕Å  LogoΦÖòτÉåσñ▒µòù∩╝îΣ╜┐τö¿σÄƒσºïURL: http://prowine.com.tw/newsite/wp-content/uploads/Arderius-Tinto-White-Wine-2022.jpg
+Γ£à Σ┐¥σ¡ÿΘàÆΦÄè: Bodegas Leza Garcia ARDERIUS
+  ≡ƒîÉ σÿùΦ⌐ªσ╛₧σ«ÿτ╢▓τì▓σÅû Staglin Family Estate τÜäΘ½ÿΦ│¬ΘçÅσ£ûτëç...
+  ≡ƒöì τé║ "Staglin Family Estate" τöƒµêÉ 24 σÇïσÅ»Φâ╜τÜäσƒƒσÉì...
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.staglin family.fr
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://www.staglin family.fr σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://staglin family.fr
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://staglin family.fr σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.staglin family.com
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://www.staglin family.com σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://staglin family.com
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://staglin family.com σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.staglin family.net
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://www.staglin family.net σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://staglin family.net
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://staglin family.net σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.staglinfamily.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://staglinfamily.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.staglinfamily.com
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://staglinfamily.com
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.staglinfamily.net
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://staglinfamily.net
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.staglin-family.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://staglin-family.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.staglin-family.com
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://staglin-family.com
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.staglin-family.net
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://staglin-family.net
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.staglin.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://staglin.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.staglin.com
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://staglin.com
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://staglin.com σñ▒µòù: timeout of 10000ms exceeded
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.staglin.net
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://staglin.net
+  ≡ƒô╕ ΦÖòτÉåΘàÆΦÄèlogo: Staglin Family Estate - http://prowine.com.tw/newsite/wp-content/uploads/S...
+≡ƒôÑ Σ╕ïΦ╝ëσ£ûτëç: http://prowine.com.tw/newsite/wp-content/uploads/St-23-Chardonnay.jpg
+  ΓÜá∩╕Å  LogoΦÖòτÉåσñ▒µòù∩╝îΣ╜┐τö¿σÄƒσºïURL: http://prowine.com.tw/newsite/wp-content/uploads/St-23-Chardonnay.jpg
+Γ£à Σ┐¥σ¡ÿΘàÆΦÄè: Staglin Family Estate
+  ≡ƒîÉ σÿùΦ⌐ªσ╛₧σ«ÿτ╢▓τì▓σÅû Grgich Hills τÜäΘ½ÿΦ│¬ΘçÅσ£ûτëç...
+  ≡ƒöì τé║ "Grgich Hills" τöƒµêÉ 24 σÇïσÅ»Φâ╜τÜäσƒƒσÉì...
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.grgich hills.fr
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://www.grgich hills.fr σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://grgich hills.fr
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://grgich hills.fr σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.grgich hills.com
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://www.grgich hills.com σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://grgich hills.com
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://grgich hills.com σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.grgich hills.net
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://www.grgich hills.net σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://grgich hills.net
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://grgich hills.net σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.grgichhills.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://grgichhills.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.grgichhills.com
+  Γ£à µë╛σê░Logo: https://www.grgichhills.com/wp-content/themes/grgich-hills/i...
+  Γ£à µêÉσèƒσ╛₧σ«ÿτ╢▓τì▓σÅûσ£ûτëç: https://www.grgichhills.com
+  Γ£à Σ╜┐τö¿σ«ÿτ╢▓Logo: https://www.grgichhills.com/wp-content/themes/grgi...
+  ≡ƒô╕ ΦÖòτÉåΘàÆΦÄèlogo: Grgich Hills - https://www.grgichhills.com/wp-content/themes/grgi...
+≡ƒôÑ Σ╕ïΦ╝ëσ£ûτëç: https://www.grgichhills.com/wp-content/themes/grgich-hills/img/ccof-logo.svg
+Γ¥î σ£ûτëçΦÖòτÉåσñ▒µòù: AxiosError: Request failed with status code 404
+    at settle (C:\PROJECTS\PROWINE\node_modules\axios\lib\core\settle.js:19:12)
+    at IncomingMessage.handleStreamEnd (C:\PROJECTS\PROWINE\node_modules\axios\lib\adapters\http.js:793:11)
+    at IncomingMessage.emit (node:events:531:35)
+    at endReadableNT (node:internal/streams/readable:1698:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:90:21)
+    at Axios.request (C:\PROJECTS\PROWINE\node_modules\axios\lib\core\Axios.js:45:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async downloadAndOptimizeImage (C:\PROJECTS\PROWINE\scripts\scraper\enhanced-scraper.ts:227:22)
+    at async saveToDatabase (C:\PROJECTS\PROWINE\scripts\scraper\enhanced-scraper.ts:920:22)
+    at async main (C:\PROJECTS\PROWINE\scripts\scraper\enhanced-scraper.ts:1076:3) {
+  code: 'ERR_BAD_REQUEST',
+  config: {
+    transitional: {
+      silentJSONParsing: true,
+      forcedJSONParsing: true,
+      clarifyTimeoutError: false
+    },
+    adapter: [ 'xhr', 'http', 'fetch' ],
+    transformRequest: [ [Function: transformRequest] ],
+    transformResponse: [ [Function: transformResponse] ],
+    timeout: 30000,
+    xsrfCookieName: 'XSRF-TOKEN',
+    xsrfHeaderName: 'X-XSRF-TOKEN',
+    maxContentLength: -1,
+    maxBodyLength: -1,
+    env: { FormData: [Function], Blob: [class Blob] },
+    validateStatus: [Function: validateStatus],
+    headers: Object [AxiosHeaders] {
+      Accept: 'application/json, text/plain, */*',
+      'Content-Type': undefined,
+      'User-Agent': 'axios/1.13.2',
+      'Accept-Encoding': 'gzip, compress, deflate, br'
+    },
+    responseType: 'arraybuffer',
+    method: 'get',
+    url: 'https://www.grgichhills.com/wp-content/themes/grgich-hills/img/ccof-logo.svg',
+    allowAbsoluteUrls: true,
+    data: undefined
+  },
+  request: <ref *1> ClientRequest {
+    _events: [Object: null prototype] {
+      abort: [Function (anonymous)],
+      aborted: [Function (anonymous)],
+      connect: [Function (anonymous)],
+      error: [Function (anonymous)],
+      socket: [Function (anonymous)],
+      timeout: [Function (anonymous)],
+      finish: [Function: requestOnFinish]
+    },
+    _eventsCount: 7,
+    _maxListeners: undefined,
+    outputData: [],
+    outputSize: 0,
+    writable: true,
+    destroyed: false,
+    _last: true,
+    chunkedEncoding: false,
+    shouldKeepAlive: false,
+    maxRequestsOnConnectionReached: false,
+    _defaultKeepAlive: true,
+    useChunkedEncodingByDefault: false,
+    sendDate: false,
+    _removedConnection: false,
+    _removedContLen: false,
+    _removedTE: false,
+    strictContentLength: false,
+    _contentLength: 0,
+    _hasBody: true,
+    _trailer: '',
+    finished: true,
+    _headerSent: true,
+    _closed: false,
+    _header: 'GET /wp-content/themes/grgich-hills/img/ccof-logo.svg HTTP/1.1\r\n' +
+      'Accept: application/json, text/plain, */*\r\n' +
+      'User-Agent: axios/1.13.2\r\n' +
+      'Accept-Encoding: gzip, compress, deflate, br\r\n' +
+      'Host: www.grgichhills.com\r\n' +
+      'Connection: keep-alive\r\n' +
+      '\r\n',
+    _keepAliveTimeout: 0,
+    _onPendingData: [Function: nop],
+    agent: Agent {
+      _events: [Object: null prototype],
+      _eventsCount: 2,
+      _maxListeners: undefined,
+      defaultPort: 443,
+      protocol: 'https:',
+      options: [Object: null prototype],
+      requests: [Object: null prototype] {},
+      sockets: [Object: null prototype],
+      freeSockets: [Object: null prototype],
+      keepAliveMsecs: 1000,
+      keepAlive: true,
+      maxSockets: Infinity,
+      maxFreeSockets: 256,
+      scheduling: 'lifo',
+      maxTotalSockets: Infinity,
+      totalSocketCount: 2,
+      agentKeepAliveTimeoutBuffer: 1000,
+      maxCachedSessions: 100,
+      _sessionCache: [Object],
+      [Symbol(shapeMode)]: false,
+      [Symbol(kCapture)]: false
+    },
+    socketPath: undefined,
+    method: 'GET',
+    maxHeaderSize: undefined,
+    insecureHTTPParser: undefined,
+    joinDuplicateHeaders: undefined,
+    path: '/wp-content/themes/grgich-hills/img/ccof-logo.svg',
+    _ended: true,
+    res: IncomingMessage {
+      _events: [Object],
+      _readableState: [ReadableState],
+      _maxListeners: undefined,
+      socket: [TLSSocket],
+      httpVersionMajor: 1,
+      httpVersionMinor: 1,
+      httpVersion: '1.1',
+      complete: true,
+      rawHeaders: [Array],
+      rawTrailers: [],
+      joinDuplicateHeaders: undefined,
+      aborted: false,
+      upgrade: false,
+      url: '',
+      method: null,
+      statusCode: 404,
+      statusMessage: 'Not Found',
+      client: [TLSSocket],
+      _consuming: false,
+      _dumped: false,
+      req: [Circular *1],
+      _eventsCount: 4,
+      responseUrl: 'https://www.grgichhills.com/wp-content/themes/grgich-hills/img/ccof-logo.svg',
+      redirects: [],
+      [Symbol(shapeMode)]: true,
+      [Symbol(kCapture)]: false,
+      [Symbol(kHeaders)]: [Object],
+      [Symbol(kHeadersCount)]: 10,
+      [Symbol(kTrailers)]: null,
+      [Symbol(kTrailersCount)]: 0
+    },
+    aborted: false,
+    timeoutCb: [Function: emitRequestTimeout],
+    upgradeOrConnect: false,
+    parser: null,
+    maxHeadersCount: null,
+    reusedSocket: false,
+    host: 'www.grgichhills.com',
+    protocol: 'https:',
+    _redirectable: Writable {
+      _events: [Object],
+      _writableState: [WritableState],
+      _maxListeners: undefined,
+      _options: [Object],
+      _ended: true,
+      _ending: true,
+      _redirectCount: 0,
+      _redirects: [],
+      _requestBodyLength: 0,
+      _requestBodyBuffers: [],
+      _eventsCount: 3,
+      _onNativeResponse: [Function (anonymous)],
+      _currentRequest: [Circular *1],
+      _currentUrl: 'https://www.grgichhills.com/wp-content/themes/grgich-hills/img/ccof-logo.svg',
+      _timeout: null,
+      [Symbol(shapeMode)]: true,
+      [Symbol(kCapture)]: false
+    },
+    [Symbol(shapeMode)]: false,
+    [Symbol(kCapture)]: false,
+    [Symbol(kBytesWritten)]: 0,
+    [Symbol(kNeedDrain)]: false,
+    [Symbol(corked)]: 0,
+    [Symbol(kChunkedBuffer)]: [],
+    [Symbol(kChunkedLength)]: 0,
+    [Symbol(kSocket)]: TLSSocket {
+      _tlsOptions: [Object],
+      _secureEstablished: true,
+      _securePending: false,
+      _newSessionPending: false,
+      _controlReleased: true,
+      secureConnecting: false,
+      _SNICallback: null,
+      servername: 'www.grgichhills.com',
+      alpnProtocol: false,
+      authorized: true,
+      authorizationError: null,
+      encrypted: true,
+      _events: [Object: null prototype],
+      _eventsCount: 10,
+      connecting: false,
+      _hadError: false,
+      _parent: null,
+      _host: 'www.grgichhills.com',
+      _closeAfterHandlingError: false,
+      _readableState: [ReadableState],
+      _writableState: [WritableState],
+      allowHalfOpen: false,
+      _maxListeners: undefined,
+      _sockname: null,
+      _pendingData: null,
+      _pendingEncoding: '',
+      server: undefined,
+      _server: null,
+      ssl: [TLSWrap],
+      _requestCert: true,
+      _rejectUnauthorized: true,
+      timeout: 30000,
+      parser: null,
+      _httpMessage: [Circular *1],
+      autoSelectFamilyAttemptedAddresses: [Array],
+      [Symbol(alpncallback)]: null,
+      [Symbol(res)]: [TLSWrap],
+      [Symbol(verified)]: true,
+      [Symbol(pendingSession)]: null,
+      [Symbol(async_id_symbol)]: 22280,
+      [Symbol(kHandle)]: [TLSWrap],
+      [Symbol(lastWriteQueueSize)]: 0,
+      [Symbol(timeout)]: Timeout {
+        _idleTimeout: 30000,
+        _idlePrev: [TimersList],
+        _idleNext: [Timeout],
+        _idleStart: 535038,
+        _onTimeout: [Function: bound ],
+        _timerArgs: undefined,
+        _repeat: null,
+        _destroyed: false,
+        [Symbol(refed)]: false,
+        [Symbol(kHasPrimitive)]: false,
+        [Symbol(asyncId)]: 22289,
+        [Symbol(triggerId)]: 22284,
+        [Symbol(kAsyncContextFrame)]: undefined
+      },
+      [Symbol(kBuffer)]: null,
+      [Symbol(kBufferCb)]: null,
+      [Symbol(kBufferGen)]: null,
+      [Symbol(shapeMode)]: true,
+      [Symbol(kCapture)]: false,
+      [Symbol(kSetNoDelay)]: false,
+      [Symbol(kSetKeepAlive)]: true,
+      [Symbol(kSetKeepAliveInitialDelay)]: 60,
+      [Symbol(kBytesRead)]: 0,
+      [Symbol(kBytesWritten)]: 0,
+      [Symbol(connect-options)]: [Object]
+    },
+    [Symbol(kOutHeaders)]: [Object: null prototype] {
+      accept: [Array],
+      'user-agent': [Array],
+      'accept-encoding': [Array],
+      host: [Array]
+    },
+    [Symbol(errored)]: null,
+    [Symbol(kHighWaterMark)]: 16384,
+    [Symbol(kRejectNonStandardBodyWrites)]: false,
+    [Symbol(kUniqueHeaders)]: null
+  },
+  response: {
+    status: 404,
+    statusText: 'Not Found',
+    headers: Object [AxiosHeaders] {
+      'content-type': 'text/plain; charset=utf-8',
+      'x-content-type-options': 'nosniff',
+      date: 'Wed, 26 Nov 2025 17:09:42 GMT',
+      'content-length': '10',
+      connection: 'close'
+    },
+    config: {
+      transitional: [Object],
+      adapter: [Array],
+      transformRequest: [Array],
+      transformResponse: [Array],
+      timeout: 30000,
+      xsrfCookieName: 'XSRF-TOKEN',
+      xsrfHeaderName: 'X-XSRF-TOKEN',
+      maxContentLength: -1,
+      maxBodyLength: -1,
+      env: [Object],
+      validateStatus: [Function: validateStatus],
+      headers: [Object [AxiosHeaders]],
+      responseType: 'arraybuffer',
+      method: 'get',
+      url: 'https://www.grgichhills.com/wp-content/themes/grgich-hills/img/ccof-logo.svg',
+      allowAbsoluteUrls: true,
+      data: undefined
+    },
+    request: <ref *1> ClientRequest {
+      _events: [Object: null prototype],
+      _eventsCount: 7,
+      _maxListeners: undefined,
+      outputData: [],
+      outputSize: 0,
+      writable: true,
+      destroyed: false,
+      _last: true,
+      chunkedEncoding: false,
+      shouldKeepAlive: false,
+      maxRequestsOnConnectionReached: false,
+      _defaultKeepAlive: true,
+      useChunkedEncodingByDefault: false,
+      sendDate: false,
+      _removedConnection: false,
+      _removedContLen: false,
+      _removedTE: false,
+      strictContentLength: false,
+      _contentLength: 0,
+      _hasBody: true,
+      _trailer: '',
+      finished: true,
+      _headerSent: true,
+      _closed: false,
+      _header: 'GET /wp-content/themes/grgich-hills/img/ccof-logo.svg HTTP/1.1\r\n' +
+        'Accept: application/json, text/plain, */*\r\n' +
+        'User-Agent: axios/1.13.2\r\n' +
+        'Accept-Encoding: gzip, compress, deflate, br\r\n' +
+        'Host: www.grgichhills.com\r\n' +
+        'Connection: keep-alive\r\n' +
+        '\r\n',
+      _keepAliveTimeout: 0,
+      _onPendingData: [Function: nop],
+      agent: [Agent],
+      socketPath: undefined,
+      method: 'GET',
+      maxHeaderSize: undefined,
+      insecureHTTPParser: undefined,
+      joinDuplicateHeaders: undefined,
+      path: '/wp-content/themes/grgich-hills/img/ccof-logo.svg',
+      _ended: true,
+      res: [IncomingMessage],
+      aborted: false,
+      timeoutCb: [Function: emitRequestTimeout],
+      upgradeOrConnect: false,
+      parser: null,
+      maxHeadersCount: null,
+      reusedSocket: false,
+      host: 'www.grgichhills.com',
+      protocol: 'https:',
+      _redirectable: [Writable],
+      [Symbol(shapeMode)]: false,
+      [Symbol(kCapture)]: false,
+      [Symbol(kBytesWritten)]: 0,
+      [Symbol(kNeedDrain)]: false,
+      [Symbol(corked)]: 0,
+      [Symbol(kChunkedBuffer)]: [],
+      [Symbol(kChunkedLength)]: 0,
+      [Symbol(kSocket)]: [TLSSocket],
+      [Symbol(kOutHeaders)]: [Object: null prototype],
+      [Symbol(errored)]: null,
+      [Symbol(kHighWaterMark)]: 16384,
+      [Symbol(kRejectNonStandardBodyWrites)]: false,
+      [Symbol(kUniqueHeaders)]: null
+    },
+    data: <Buffer 4e 6f 74 20 46 6f 75 6e 64 0a>
+  },
+  status: 404
+}
+  Γ£à Logoσ╖▓Σ╕èσé│: https://www.grgichhills.com/wp-content/themes/grgi...
+Γ£à Σ┐¥σ¡ÿΘàÆΦÄè: Grgich Hills
+  ≡ƒîÉ σÿùΦ⌐ªσ╛₧σ«ÿτ╢▓τì▓σÅû Somerston Priest Ranch τÜäΘ½ÿΦ│¬ΘçÅσ£ûτëç...
+  ≡ƒöì τé║ "Somerston Priest Ranch" τöƒµêÉ 24 σÇïσÅ»Φâ╜τÜäσƒƒσÉì...
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.somerston priest ranch.fr
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://www.somerston priest ranch.fr σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://somerston priest ranch.fr
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://somerston priest ranch.fr σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.somerston priest ranch.com
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://www.somerston priest ranch.com σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://somerston priest ranch.com
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://somerston priest ranch.com σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.somerston priest ranch.net
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://www.somerston priest ranch.net σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://somerston priest ranch.net
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://somerston priest ranch.net σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.somerstonpriestranch.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://somerstonpriestranch.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.somerstonpriestranch.com
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://somerstonpriestranch.com
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.somerstonpriestranch.net
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://somerstonpriestranch.net
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.somerston-priest-ranch.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://somerston-priest-ranch.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.somerston-priest-ranch.com
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://somerston-priest-ranch.com
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.somerston-priest-ranch.net
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://somerston-priest-ranch.net
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.somerston.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://somerston.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.somerston.com
+  Γ£à µë╛σê░Logo: https://www.somerston.com/wp-content/themes/somerston/src/as...
+  Γ£à µêÉσèƒσ╛₧σ«ÿτ╢▓τì▓σÅûσ£ûτëç: https://www.somerston.com
+  Γ£à Σ╜┐τö¿σ«ÿτ╢▓Logo: https://www.somerston.com/wp-content/themes/somers...
+  ≡ƒô╕ ΦÖòτÉåΘàÆΦÄèlogo: Somerston Priest Ranch - https://www.somerston.com/wp-content/themes/somers...
+≡ƒôÑ Σ╕ïΦ╝ëσ£ûτëç: https://www.somerston.com/wp-content/themes/somerston/src/assets/images/Somerston_logo.png
+  ΓÜá∩╕Å  LogoΦÖòτÉåσñ▒µòù∩╝îΣ╜┐τö¿σÄƒσºïURL: http://prowine.com.tw/newsite/wp-content/uploads/Somerston-priest-ranch-sauv.-blanc-2022.jpg
+Γ£à Σ┐¥σ¡ÿΘàÆΦÄè: Somerston Priest Ranch
+  ≡ƒîÉ σÿùΦ⌐ªσ╛₧σ«ÿτ╢▓τì▓σÅû Chateau Trinquevedel Traditional τÜäΘ½ÿΦ│¬ΘçÅσ£ûτëç...
+  ≡ƒöì τé║ "Chateau Trinquevedel Traditional" τöƒµêÉ 24 σÇïσÅ»Φâ╜τÜäσƒƒσÉì...
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.chateau trinquevedel traditional.fr
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://www.chateau trinquevedel traditional.fr σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://chateau trinquevedel traditional.fr
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://chateau trinquevedel traditional.fr σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.chateau trinquevedel traditional.com
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://www.chateau trinquevedel traditional.com σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://chateau trinquevedel traditional.com
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://chateau trinquevedel traditional.com σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.chateau trinquevedel traditional.net
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://www.chateau trinquevedel traditional.net σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://chateau trinquevedel traditional.net
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://chateau trinquevedel traditional.net σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.chateautrinquevedeltraditional.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://chateautrinquevedeltraditional.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.chateautrinquevedeltraditional.com
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://chateautrinquevedeltraditional.com
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.chateautrinquevedeltraditional.net
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://chateautrinquevedeltraditional.net
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.chateau-trinquevedel-traditional.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://chateau-trinquevedel-traditional.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.chateau-trinquevedel-traditional.com
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://chateau-trinquevedel-traditional.com
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.chateau-trinquevedel-traditional.net
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://chateau-trinquevedel-traditional.net
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.chateau.fr
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://www.chateau.fr σñ▒µòù: timeout of 10000ms exceeded
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://chateau.fr
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://chateau.fr σñ▒µòù: timeout of 10000ms exceeded
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.chateau.com
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://www.chateau.com σñ▒µòù: timeout of 10000ms exceeded
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://chateau.com
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://chateau.com σñ▒µòù: timeout of 10000ms exceeded
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.chateau.net
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://chateau.net
+  ≡ƒô╕ ΦÖòτÉåΘàÆΦÄèlogo: Chateau Trinquevedel Traditional - http://prowine.com.tw/newsite/wp-content/uploads/2...
+≡ƒôÑ Σ╕ïΦ╝ëσ£ûτëç: http://prowine.com.tw/newsite/wp-content/uploads/2013-Rose-Tavel-1.jpg
+  ΓÜá∩╕Å  LogoΦÖòτÉåσñ▒µòù∩╝îΣ╜┐τö¿σÄƒσºïURL: http://prowine.com.tw/newsite/wp-content/uploads/2013-Rose-Tavel-1.jpg
+Γ£à Σ┐¥σ¡ÿΘàÆΦÄè: Chateau Trinquevedel Traditional
+  ≡ƒîÉ σÿùΦ⌐ªσ╛₧σ«ÿτ╢▓τì▓σÅû Chateau Trinquevedel Autremen Tavel τÜäΘ½ÿΦ│¬ΘçÅσ£ûτëç...
+  ≡ƒöì τé║ "Chateau Trinquevedel Autremen Tavel" τöƒµêÉ 24 σÇïσÅ»Φâ╜τÜäσƒƒσÉì...
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.chateau trinquevedel autremen tavel.fr
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://www.chateau trinquevedel autremen tavel.fr σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://chateau trinquevedel autremen tavel.fr
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://chateau trinquevedel autremen tavel.fr σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.chateau trinquevedel autremen tavel.com
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://www.chateau trinquevedel autremen tavel.com σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://chateau trinquevedel autremen tavel.com
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://chateau trinquevedel autremen tavel.com σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.chateau trinquevedel autremen tavel.net
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://www.chateau trinquevedel autremen tavel.net σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://chateau trinquevedel autremen tavel.net
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://chateau trinquevedel autremen tavel.net σñ▒µòù: Invalid URL
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.chateautrinquevedelautrementavel.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://chateautrinquevedelautrementavel.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.chateautrinquevedelautrementavel.com
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://chateautrinquevedelautrementavel.com
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.chateautrinquevedelautrementavel.net
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://chateautrinquevedelautrementavel.net
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.chateau-trinquevedel-autremen-tavel.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://chateau-trinquevedel-autremen-tavel.fr
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.chateau-trinquevedel-autremen-tavel.com
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://chateau-trinquevedel-autremen-tavel.com
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.chateau-trinquevedel-autremen-tavel.net
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://chateau-trinquevedel-autremen-tavel.net
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.chateau.fr
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://www.chateau.fr σñ▒µòù: timeout of 10000ms exceeded
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://chateau.fr
+  ΓÜá∩╕Å  Φ¿¬σòÅ https://chateau.fr σñ▒µòù: timeout of 10000ms exceeded
+  ≡ƒöì σÿùΦ⌐ªΦ¿¬σòÅΘàÆΦÄèσ«ÿτ╢▓: https://www.chateau.com

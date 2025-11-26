@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://prowine.com.tw/sitemap.xml
+

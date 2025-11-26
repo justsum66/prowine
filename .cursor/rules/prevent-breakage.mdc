@@ -1,0 +1,109 @@
+---
+type: always
+description: 防止小修改導致整個系統崩潰的防護機制
+---
+
+## 核心原則：每次修改前後都要驗證
+
+### 修改前檢查清單
+1. **類型檢查**：`npm run build` 必須通過
+2. **導入檢查**：所有使用的函數/組件都必須正確導入
+3. **客戶端/服務器檢查**：使用 hooks 的組件必須有 'use client'
+4. **依賴檢查**：所有導入的模組都存在且可訪問
+
+### 修改後驗證清單
+1. **構建驗證**：`npm run build` 無錯誤
+2. **運行驗證**：`npm run dev` 啟動成功
+3. **頁面驗證**：至少首頁能正常顯示
+4. **控制台檢查**：瀏覽器控制台無錯誤
+
+### 自動防護機制
+
+**每次修改組件時：**
+```typescript
+// 1. 檢查所有導入
+import { X } from 'library' // 確保 X 存在
+
+// 2. 檢查所有使用的 hooks
+'use client' // 如果使用 useState, useEffect 等
+
+// 3. 檢查類型
+interface Props {
+  // 確保所有 props 都有類型
+}
+
+// 4. 檢查導出
+export function Component() { // 確保正確導出
+```
+
+**修改後立即執行：**
+1. `npm run build` - 必須成功
+2. 檢查終端是否有錯誤
+3. 檢查瀏覽器控制台是否有錯誤
+
+### 常見破壞性錯誤模式
+
+**❌ 錯誤模式1：缺少導入**
+```typescript
+// 使用了但沒導入
+const value = useTransform(...) // 錯誤：沒有導入 useTransform
+```
+
+**❌ 錯誤模式2：客戶端組件缺少 'use client'**
+```typescript
+// 使用 hooks 但沒有 'use client'
+function Component() {
+  const [state, setState] = useState() // 錯誤：需要 'use client'
+}
+```
+
+**❌ 錯誤模式3：類型不匹配**
+```typescript
+// props 類型與實際使用不匹配
+interface Props {
+  onClick: () => void
+}
+<Component onClick={123} /> // 錯誤：類型不匹配
+```
+
+**❌ 錯誤模式4：循環依賴**
+```typescript
+// A 導入 B，B 導入 A
+// 會導致運行時錯誤
+```
+
+### 修復流程
+
+**發現錯誤時：**
+1. 立即停止所有修改
+2. 檢查錯誤訊息
+3. 找到根本原因（不是症狀）
+4. 修復根本原因
+5. 驗證修復成功
+6. 繼續其他修改
+
+### 預防性檢查腳本
+
+在每次提交前自動運行：
+```bash
+# 類型檢查
+npm run build
+
+# 如果有錯誤，停止並報告
+if [ $? -ne 0 ]; then
+  echo "❌ 構建失敗，請修復錯誤後再繼續"
+  exit 1
+fi
+```
+
+### 記憶系統
+
+**記錄每次破壞性錯誤：**
+- 錯誤類型
+- 觸發條件
+- 修復方法
+- 預防措施
+
+**更新規則文件：**
+- 將新發現的錯誤模式添加到此文件
+- 定期審查和更新防護機制
