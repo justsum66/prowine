@@ -11,6 +11,7 @@ async function loadWebPush() {
   try {
     // 使用 Function 構造函數動態導入，這樣構建時完全不會解析
     // 這是唯一能讓 Turbopack 跳過模塊解析的方法
+    // 構建時會使用 web-push-stub.ts，運行時會動態導入真實的 web-push
     // eslint-disable-next-line @typescript-eslint/no-implied-eval
     const dynamicImport = new Function('moduleName', 'return import(moduleName)');
     const webPushModule = await dynamicImport('web-push');
