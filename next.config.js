@@ -168,11 +168,24 @@ const nextConfig = {
   },
   // 代碼分割優化（P1 BATCH10）：分離第三方庫到獨立 chunk
   // 注意：Next.js 16 默認使用 Turbopack，webpack 配置僅作為備用
-  webpack: (config, { isServer, dev }) => {
+  webpack: (config, { isServer, dev, webpack }) => {
     // 生產環境完全禁用 source maps（防止代碼洩露）
     if (!dev && !isServer) {
       config.devtool = false;
     }
+    
+    // 忽略 web-push 模塊（可選依賴，避免構建時錯誤）
+    config.resolve.alias = {
+      ...config.resolve.alias,
+      "web-push": false,
+    };
+    
+    // 使用 webpack.IgnorePlugin 完全忽略 web-push
+    config.plugins.push(
+      new webpack.IgnorePlugin({
+        resourceRegExp: /^web-push$/,
+      })
+    );
     
     if (!isServer) {
       config.optimization = {
