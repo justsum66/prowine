@@ -1,4 +1,5 @@
 // 動態導入 web-push（可選依賴）
+// 使用類型安全的動態導入，避免構建時錯誤
 let webpush: any = null;
 
 // 使用動態導入避免構建時錯誤
@@ -9,6 +10,8 @@ async function loadWebPush() {
   
   try {
     // 使用動態 import 而不是 require，避免構建時檢查
+    // eslint-disable-next-line @typescript-eslint/ban-ts-comment
+    // @ts-ignore - web-push 是可選依賴，可能未安裝
     const webPushModule = await import("web-push");
     webpush = webPushModule.default || webPushModule;
     return webpush;

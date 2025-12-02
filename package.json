@@ -9,7 +9,7 @@
     "build": "node --max-old-space-size=4096 node_modules/next/dist/bin/next build",
     "build:legacy": "next build",
     "start": "next start",
-    "lint": "next lint",
+    "lint": "next lint --dir .",
     "lint:fix": "next lint --fix",
     "test:api-keys": "tsx scripts/test-api-keys.ts",
     "scrape": "tsx scripts/scraper.ts",
