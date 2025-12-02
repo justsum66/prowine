@@ -209,14 +209,8 @@ const nextConfig = {
   // 修復 ByteString 錯誤：確保正確處理中文字符
   poweredByHeader: false,
   compress: true,
-  // Sentry 配置
-  sentry: {
-    // 自動上傳 source maps（僅在生產環境）
-    hideSourceMaps: true,
-    // 禁用自動上傳（手動控制）
-    autoInstrumentServerFunctions: true,
-    autoInstrumentMiddleware: true,
-  },
+  // Sentry 配置已移至 sentry.*.config.ts 文件
+  // Next.js 16 不再支持 next.config.js 中的 sentry 配置
   // 優化性能
   // 禁用source map（修復INVALID SOURCE MAP錯誤 + 防止代碼洩露）
   productionBrowserSourceMaps: false,

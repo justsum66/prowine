@@ -1,11 +1,23 @@
 // 動態導入 web-push（可選依賴）
 let webpush: any = null;
-try {
-  webpush = require("web-push");
-} catch (error) {
-  // web-push 未安裝，靜默失敗
-  if (process.env.NODE_ENV === "development") {
-    console.debug("web-push not available:", error);
+
+// 使用動態導入避免構建時錯誤
+async function loadWebPush() {
+  if (webpush !== null) {
+    return webpush;
+  }
+  
+  try {
+    // 使用動態 import 而不是 require，避免構建時檢查
+    const webPushModule = await import("web-push");
+    webpush = webPushModule.default || webPushModule;
+    return webpush;
+  } catch (error) {
+    // web-push 未安裝，靜默失敗
+    if (process.env.NODE_ENV === "development") {
+      console.debug("web-push not available:", error);
+    }
+    return null;
   }
 }
 
@@ -62,7 +74,13 @@ export async function sendPushNotificationToAll(
     return { success: 0, failed: subscriptions.length };
   }
 
-  webpush.setVapidDetails(`mailto:${vapidEmail}`, vapidPublicKey, vapidPrivateKey);
+  const webPushLib = await loadWebPush();
+  if (!webPushLib) {
+    console.warn("web-push is not available, skipping push notifications");
+    return { success: 0, failed: subscriptions.length };
+  }
+
+  webPushLib.setVapidDetails(`mailto:${vapidEmail}`, vapidPublicKey, vapidPrivateKey);
 
   let success = 0;
   let failed = 0;
@@ -141,12 +159,13 @@ export async function sendPushNotificationToUser(
     return false;
   }
 
-  if (!webpush) {
+  const webPushLib = await loadWebPush();
+  if (!webPushLib) {
     console.warn("web-push is not configured, skipping push notification");
     return false;
   }
 
-  webpush.setVapidDetails(`mailto:${vapidEmail}`, vapidPublicKey, vapidPrivateKey);
+  webPushLib.setVapidDetails(`mailto:${vapidEmail}`, vapidPublicKey, vapidPrivateKey);
 
   // 發送給用戶的所有訂閱（可能有多個設備）
   const promises = subscriptions.map(async (subscription) => {
@@ -168,7 +187,7 @@ export async function sendPushNotificationToUser(
         data: notification.data || {},
       });
 
-      await webpush.sendNotification(pushSubscription, payload);
+      await webPushLib.sendNotification(pushSubscription, payload);
     } catch (error: any) {
       console.error("發送推送通知失敗:", error);
 

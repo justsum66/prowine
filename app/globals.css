@@ -826,11 +826,11 @@
 }
 
 .dark .text-neutral-500 {
-  @apply text-neutral-400; /* 提升對比度 */
+  color: rgb(163 163 163); /* text-neutral-400 值，避免循環依賴 */
 }
 
 .dark .text-neutral-400 {
-  @apply text-neutral-300; /* 提升對比度 */
+  color: rgb(212 212 212); /* text-neutral-300 值，避免循環依賴 */
 }
 
 .dark .border-neutral-200 {
@@ -1060,7 +1060,7 @@
 }
 
 .dark .section-subtitle {
-  @apply text-neutral-400;
+  color: rgb(163 163 163); /* text-neutral-400 值，避免循環依賴 */
 }
 
 .dark .divider {
