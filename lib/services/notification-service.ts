@@ -110,7 +110,7 @@ export async function sendPushNotificationToAll(
         data: notification.data || {},
       });
 
-      await webpush.sendNotification(pushSubscription, payload);
+      await webPushLib.sendNotification(pushSubscription, payload);
       success++;
     } catch (error: any) {
       console.error("發送推送通知失敗:", error);

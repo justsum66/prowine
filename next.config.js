@@ -163,10 +163,11 @@ const nextConfig = {
     optimizePackageImports: ["lucide-react", "framer-motion"], // 代碼分割優化（P1 BATCH10）
   },
   // Turbopack 配置（Next.js 16 兼容）
+  // 注意：Turbopack 的 resolveAlias 不支持 false 值，必須是字符串路徑
+  // 使用存根模塊來避免構建時解析錯誤
   turbopack: {
-    // 忽略可選依賴，避免構建時解析錯誤
     resolveAlias: {
-      'web-push': false,
+      'web-push': './lib/services/web-push-stub.ts',
     },
   },
   // 代碼分割優化（P1 BATCH10）：分離第三方庫到獨立 chunk
