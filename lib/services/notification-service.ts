@@ -1,21 +1,18 @@
 // 動態導入 web-push（可選依賴）
-// 使用類型安全的動態導入，避免構建時錯誤
+// 使用完全動態的方式，避免 Turbopack 在構建時解析
 let webpush: any = null;
 
-// 使用動態導入避免構建時錯誤
-// 使用字符串動態導入，避免 Turbopack 在構建時解析
+// 使用 Function 構造函數動態導入，完全避免構建時解析
 async function loadWebPush() {
   if (webpush !== null) {
     return webpush;
   }
   
   try {
-    // 使用字符串動態 import，避免構建時檢查
-    // 這樣 Turbopack 不會在構建時嘗試解析這個模塊
-    const webPushModuleName = "web-push";
-    // eslint-disable-next-line @typescript-eslint/ban-ts-comment
-    // @ts-expect-error - web-push 是可選依賴，可能未安裝
-    const webPushModule = await import(webPushModuleName);
+    // 使用 Function 構造函數動態導入，這樣構建時完全不會解析
+    // 這是唯一能讓 Turbopack 跳過模塊解析的方法
+    const dynamicImport = new Function('moduleName', 'return import(moduleName)');
+    const webPushModule = await dynamicImport('web-push');
     webpush = webPushModule.default || webPushModule;
     return webpush;
   } catch (error) {

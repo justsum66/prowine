@@ -164,7 +164,10 @@ const nextConfig = {
   },
   // Turbopack 配置（Next.js 16 兼容）
   turbopack: {
-    // 保持 webpack 配置的優化邏輯
+    // 忽略可選依賴，避免構建時解析錯誤
+    resolveAlias: {
+      'web-push': false,
+    },
   },
   // 代碼分割優化（P1 BATCH10）：分離第三方庫到獨立 chunk
   // 注意：Next.js 16 默認使用 Turbopack，webpack 配置僅作為備用
