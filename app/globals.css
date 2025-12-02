@@ -1,0 +1,1376 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* B2B Client Logos Animation */
+@keyframes scroll {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-33.333%);
+  }
+}
+
+.animate-scroll {
+  animation: scroll 30s linear infinite;
+}
+
+.animate-scroll:hover {
+  animation-play-state: paused;
+}
+
+:root {
+  --font-serif: 'Georgia', 'Times New Roman', serif;
+  --font-sans: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+  --font-display: 'Playfair Display', 'Georgia', serif;
+  --font-cormorant: 'Cormorant Garamond', 'Georgia', serif;
+  
+  /* 高級色調變數 - 更精緻 */
+  --gold: #d4af37;
+  --gold-light: #e8d5a3;
+  --gold-dark: #b8941f;
+  --burgundy: #722f37;
+  --burgundy-light: #8a4a52;
+  --burgundy-dark: #5a252b;
+  --cream: #f5e6d3;
+  --ivory: #faf8f5;
+  
+  /* 統一的間距系統 - P0 優化 */
+  --spacing-xs: 0.5rem;
+  --spacing-sm: 1rem;
+  --spacing-md: 1.5rem;
+  --spacing-lg: 2rem;
+  --spacing-xl: 3rem;
+  --spacing-2xl: 4rem;
+  
+  /* 統一的圓角 - P0 優化 */
+  --radius-sm: 4px;
+  --radius-md: 8px;
+  --radius-lg: 12px;
+  --radius-xl: 16px;
+  --radius-2xl: 24px;
+  
+  /* 統一的陰影系統 - P0 #5 優化 */
+  --shadow-subtle: 0 1px 2px rgba(0, 0, 0, 0.04);
+  --shadow-soft: 0 2px 8px rgba(0, 0, 0, 0.06);
+  --shadow-medium: 0 4px 16px rgba(0, 0, 0, 0.08);
+  --shadow-strong: 0 8px 32px rgba(0, 0, 0, 0.12);
+  --shadow-dramatic: 0 16px 64px rgba(0, 0, 0, 0.16);
+  --shadow-hero: 0 24px 96px rgba(0, 0, 0, 0.20);
+  
+  /* 動畫時間標準 - P0 #7 優化 */
+  --duration-micro: 150ms;
+  --duration-short: 300ms;
+  --duration-medium: 500ms;
+  --duration-long: 800ms;
+  
+  /* 緩動函數 - P0 #8 優化 */
+  --easing-standard: cubic-bezier(0.4, 0, 0.2, 1);
+  --easing-bounce: cubic-bezier(0.68, -0.55, 0.265, 1.55);
+  --easing-slow: cubic-bezier(0.25, 0.46, 0.45, 0.94);
+  
+  /* 2026高端設計：Glassmorphism 2.0 系統變數 */
+  --glass-light: rgba(255, 255, 255, 0.1);
+  --glass-medium: rgba(255, 255, 255, 0.2);
+  --glass-heavy: rgba(255, 255, 255, 0.3);
+  --glass-blur-sm: 4px;
+  --glass-blur-md: 12px;
+  --glass-blur-xl: 24px;
+  
+  /* 2026高端設計：液態動畫變數 */
+  --liquid-duration: 8s;
+  --liquid-easing: cubic-bezier(0.4, 0, 0.6, 1);
+  
+  /* 2026高端設計：微交互時長 */
+  --micro-duration-fast: 200ms;
+  --micro-duration-standard: 300ms;
+  --micro-duration-slow: 500ms;
+}
+
+@layer base {
+  * {
+    @apply border-neutral-200;
+  }
+  
+  html {
+    scroll-behavior: smooth;
+  }
+  
+  body {
+    @apply bg-ivory text-neutral-900 antialiased;
+    font-family: var(--font-sans);
+    font-feature-settings: "kern" 1, "liga" 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    letter-spacing: 0.01em;
+    /* P0 #48：正文字體優化 */
+    font-size: 16px;
+    line-height: 1.75;
+  }
+
+  /* 確保 body 和 html 不阻止點擊 */
+  body,
+  html {
+    pointer-events: auto !important;
+  }
+  
+  /* P0 #46-47：標題字體優化 */
+  h1 {
+    font-family: var(--font-cormorant), var(--font-serif);
+    font-weight: 300;
+    letter-spacing: -0.03em;
+    line-height: 1.1;
+    font-size: 4.5rem;
+  }
+  
+  h2 {
+    font-family: var(--font-cormorant), var(--font-serif);
+    font-weight: 300;
+    letter-spacing: -0.02em;
+    line-height: 1.2;
+    font-size: 3.75rem;
+  }
+  
+  h3 {
+    font-family: var(--font-cormorant), var(--font-serif);
+    font-weight: 400;
+    letter-spacing: -0.02em;
+    line-height: 1.3;
+    font-size: 3rem;
+  }
+  
+  h4 {
+    font-family: var(--font-cormorant), var(--font-serif);
+    font-weight: 400;
+    letter-spacing: 0.02em;
+    line-height: 1.4;
+    font-size: 1.75rem;
+  }
+  
+  h5, h6 {
+    font-family: var(--font-cormorant), var(--font-serif);
+    font-weight: 400;
+    letter-spacing: 0.02em;
+    line-height: 1.5;
+  }
+  
+  /* 精緻的選擇文字樣式 */
+  ::selection {
+    @apply bg-primary-600 text-white;
+  }
+  
+  ::-moz-selection {
+    @apply bg-primary-600 text-white;
+  }
+}
+
+@layer components {
+  .container-custom {
+    @apply mx-auto max-w-7xl px-6 sm:px-8 lg:px-12;
+  }
+
+  /* 大屏幕布局優化 */
+  @media (min-width: 1536px) {
+    .container-custom {
+      @apply max-w-[90rem] px-16;
+    }
+  }
+
+  /* 超大屏幕布局優化 */
+  @media (min-width: 1920px) {
+    .container-custom {
+      @apply max-w-[100rem] px-20;
+    }
+  }
+  
+  /* P0 #56-65：精緻按鈕樣式系統 */
+  .btn-primary {
+    @apply relative px-6 py-3 text-white font-medium text-sm
+           overflow-hidden transition-all duration-300
+           focus:outline-none focus:ring-2 focus:ring-accent-gold focus:ring-offset-2;
+    min-height: 44px;
+    min-width: 44px;
+    letter-spacing: 0.05em;
+    line-height: 1.2;
+    font-weight: 500;
+    /* P0 #56：金色漸變背景 */
+    background: linear-gradient(135deg, var(--gold) 0%, var(--gold-dark) 100%);
+    box-shadow: 0 4px 16px rgba(212, 175, 55, 0.15);
+    transform: translateY(0);
+  }
+  
+  .btn-primary::before {
+    content: '';
+    @apply absolute inset-0;
+    background: linear-gradient(135deg, var(--gold-dark) 0%, var(--gold) 100%);
+    transform: translateX(-100%);
+    transition: transform 0.4s var(--easing-standard);
+  }
+  
+  .btn-primary:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 8px 24px rgba(212, 175, 55, 0.25);
+  }
+
+  .btn-primary:disabled {
+    opacity: 0.6;
+    cursor: not-allowed;
+    transform: none;
+  }
+
+  .btn-primary:disabled:hover {
+    transform: none;
+    box-shadow: 0 4px 16px rgba(212, 175, 55, 0.15);
+  }
+  
+  .btn-primary:hover::before {
+    transform: translateX(0);
+  }
+  
+  .btn-primary:active {
+    transform: translateY(0) scale(0.98);
+  }
+  
+  .btn-primary span {
+    @apply relative z-10 flex items-center gap-2;
+  }
+  
+  /* P0 #57：次要按鈕設計 */
+  .btn-secondary {
+    @apply relative px-6 py-3 border-2 border-accent-gold text-neutral-900 font-medium text-sm
+           hover:bg-accent-gold/10 transition-all duration-300
+           focus:outline-none focus:ring-2 focus:ring-accent-gold focus:ring-offset-2;
+    min-height: 44px;
+    min-width: 44px;
+    letter-spacing: 0.05em;
+    line-height: 1.2;
+    font-weight: 500;
+    background: transparent;
+  }
+  
+  .btn-secondary:hover {
+    border-width: 3px;
+    background: rgba(212, 175, 55, 0.1);
+    transform: translateY(-1px);
+  }
+
+  .btn-secondary:disabled {
+    opacity: 0.6;
+    cursor: not-allowed;
+    transform: none;
+  }
+
+  .btn-secondary:disabled:hover {
+    transform: none;
+    border-width: 2px;
+    background: transparent;
+  }
+  
+  .btn-secondary:active {
+    transform: translateY(0) scale(0.98);
+  }
+  
+  /* P0 #56：金色按鈕（升級版） */
+  .btn-gold {
+    @apply relative px-6 py-3 text-neutral-900 font-medium text-sm
+           transition-all duration-300
+           focus:outline-none focus:ring-2 focus:ring-accent-gold focus:ring-offset-2;
+    min-height: 44px;
+    min-width: 44px;
+    letter-spacing: 0.05em;
+    line-height: 1.2;
+    font-weight: 500;
+    background: linear-gradient(135deg, var(--gold) 0%, var(--gold-dark) 100%);
+    box-shadow: 0 4px 16px rgba(212, 175, 55, 0.15);
+    transform: translateY(0);
+  }
+  
+  .btn-gold:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 8px 24px rgba(212, 175, 55, 0.25);
+  }
+  
+  .btn-gold:active {
+    transform: translateY(0) scale(0.98);
+  }
+  
+  /* P0 #58：按鈕尺寸系統 */
+  .btn-sm {
+    @apply px-4 py-2 text-xs;
+    min-height: 32px;
+    min-width: 32px;
+  }
+  
+  .btn-md {
+    @apply px-6 py-3 text-sm;
+    min-height: 44px;
+    min-width: 44px;
+  }
+  
+  .btn-lg {
+    @apply px-8 py-4 text-base;
+    min-height: 52px;
+    min-width: 52px;
+  }
+  
+  .btn-xl {
+    @apply px-10 py-5 text-lg;
+    min-height: 60px;
+    min-width: 60px;
+  }
+  
+  /* 精緻卡片樣式 - 更統一 */
+  .card {
+    @apply bg-white rounded-lg shadow-sm border border-neutral-200 p-6;
+    transition: all 0.3s var(--easing-standard);
+    border-radius: var(--radius-lg);
+  }
+  
+  .card:hover {
+    @apply shadow-lg border-neutral-300 dark:border-neutral-600;
+    transform: translateY(-2px);
+    box-shadow: var(--shadow-medium);
+    transition: all 0.4s var(--easing-standard);
+  }
+  
+  .card-premium {
+    @apply bg-white rounded-xl shadow-md border border-neutral-100 p-8;
+    background: linear-gradient(135deg, #ffffff 0%, #faf8f5 100%);
+    transition: all 0.4s var(--easing-standard);
+    border-radius: var(--radius-xl);
+  }
+  
+  .card-premium:hover {
+    box-shadow: var(--shadow-strong);
+    transform: translateY(-4px) scale(1.01);
+    border-color: var(--gold-light);
+    transition: all 0.5s var(--easing-standard);
+  }
+  
+  /* 精緻輸入框 */
+  .input {
+    @apply w-full px-4 py-2.5 border border-neutral-300 rounded-md
+           bg-white focus:outline-none focus:ring-2 focus:ring-primary-500 focus:border-primary-500
+           transition-all duration-200 text-sm;
+    font-feature-settings: "kern" 1;
+    min-height: 44px;
+  }
+
+  .input:focus {
+    @apply shadow-sm;
+  }
+
+  /* 輸入框錯誤狀態 */
+  .input-error {
+    @apply border-red-500 focus:ring-red-500 focus:border-red-500;
+  }
+
+  .input-error:focus {
+    @apply shadow-sm shadow-red-500/20;
+  }
+
+  /* 輸入框成功狀態 */
+  .input-success {
+    @apply border-green-500 focus:ring-green-500 focus:border-green-500;
+  }
+  
+  /* 精緻分隔線 */
+  .divider {
+    @apply border-t border-neutral-200;
+    position: relative;
+  }
+  
+  .divider::after {
+    content: '';
+    @apply absolute top-0 left-1/2 transform -translate-x-1/2 w-16 h-px bg-gradient-to-r from-transparent via-primary-300 to-transparent;
+  }
+  
+  /* P0 #46：精緻標題樣式 - 更優雅 */
+  .section-title {
+    font-family: var(--font-cormorant), var(--font-serif);
+    @apply text-3xl md:text-4xl font-light text-neutral-900 mb-3;
+    letter-spacing: -0.02em;
+    line-height: 1.2;
+    font-weight: 300;
+  }
+  
+  .section-subtitle {
+    @apply text-sm md:text-base text-neutral-600 font-light;
+    letter-spacing: 0.02em;
+    line-height: 1.7;
+    font-size: 1.75rem;
+    color: rgb(124 96 73);
+  }
+  
+  /* 精緻徽章 */
+  .badge-premium {
+    @apply px-3 py-1.5 text-neutral-900 text-xs font-medium tracking-wider uppercase;
+    background: linear-gradient(135deg, var(--gold) 0%, var(--gold-dark) 100%);
+    box-shadow: 0 2px 8px rgba(212, 175, 55, 0.2);
+    border-radius: var(--radius-sm);
+  }
+  
+  /* 精緻過渡動畫 */
+  .fade-in-up {
+    animation: fadeInUp 0.6s var(--easing-standard) forwards;
+  }
+
+  @keyframes fadeInUp {
+    from {
+      opacity: 0;
+      transform: translateY(20px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+  
+  /* ============================================
+     2026高端設計：Glassmorphism 2.0 系統
+     ============================================ */
+  
+  /* 玻璃態卡片基礎樣式 */
+  .glass-card {
+    background: rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(var(--glass-blur-md));
+    -webkit-backdrop-filter: blur(var(--glass-blur-md));
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+    transition: all var(--micro-duration-standard) var(--easing-standard);
+  }
+  
+  .glass-card-light {
+    background: rgba(255, 255, 255, 0.05);
+    backdrop-filter: blur(var(--glass-blur-sm));
+    -webkit-backdrop-filter: blur(var(--glass-blur-sm));
+  }
+  
+  .glass-card-medium {
+    background: rgba(255, 255, 255, 0.15);
+    backdrop-filter: blur(var(--glass-blur-md));
+    -webkit-backdrop-filter: blur(var(--glass-blur-md));
+  }
+  
+  .glass-card-heavy {
+    background: rgba(255, 255, 255, 0.25);
+    backdrop-filter: blur(var(--glass-blur-xl));
+    -webkit-backdrop-filter: blur(var(--glass-blur-xl));
+  }
+  
+  .glass-card:hover {
+    background: rgba(255, 255, 255, 0.2);
+    border-color: rgba(212, 175, 55, 0.3);
+    box-shadow: 0 12px 48px rgba(0, 0, 0, 0.15);
+    transform: translateY(-2px);
+  }
+  
+  /* 玻璃態按鈕 */
+  .glass-button {
+    background: rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(var(--glass-blur-md));
+    -webkit-backdrop-filter: blur(var(--glass-blur-md));
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    color: white;
+    transition: all var(--micro-duration-standard) var(--easing-standard);
+  }
+  
+  .glass-button:hover {
+    background: rgba(255, 255, 255, 0.2);
+    border-color: rgba(212, 175, 55, 0.5);
+    transform: translateY(-1px);
+  }
+  
+  /* ============================================
+     2026高端設計：液態動畫系統
+     ============================================ */
+  
+  @keyframes liquid-flow {
+    0% {
+      border-radius: 60% 40% 30% 70% / 60% 30% 70% 40%;
+      transform: translate(0, 0) rotate(0deg);
+    }
+    25% {
+      border-radius: 30% 60% 70% 40% / 50% 60% 30% 60%;
+      transform: translate(20px, -20px) rotate(5deg);
+    }
+    50% {
+      border-radius: 70% 30% 40% 60% / 30% 70% 60% 40%;
+      transform: translate(-20px, 20px) rotate(-5deg);
+    }
+    75% {
+      border-radius: 40% 70% 60% 30% / 70% 40% 50% 30%;
+      transform: translate(10px, 10px) rotate(3deg);
+    }
+    100% {
+      border-radius: 60% 40% 30% 70% / 60% 30% 70% 40%;
+      transform: translate(0, 0) rotate(0deg);
+    }
+  }
+  
+  .liquid-bg {
+    animation: liquid-flow var(--liquid-duration) var(--liquid-easing) infinite;
+    background: linear-gradient(135deg, rgba(212, 175, 55, 0.1), rgba(114, 47, 55, 0.1));
+  }
+  
+  @keyframes liquid-slide {
+    0% {
+      transform: translateX(-100%) skewX(-15deg);
+    }
+    100% {
+      transform: translateX(200%) skewX(-15deg);
+    }
+  }
+  
+  .liquid-shine {
+    position: relative;
+    overflow: hidden;
+  }
+  
+  .liquid-shine::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: -100%;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(
+      90deg,
+      transparent,
+      rgba(255, 255, 255, 0.3),
+      transparent
+    );
+    animation: liquid-slide 3s infinite;
+  }
+  
+  /* ============================================
+     2026高端設計：增強微交互
+     ============================================ */
+  
+  @keyframes ripple {
+    0% {
+      transform: scale(0);
+      opacity: 1;
+    }
+    100% {
+      transform: scale(4);
+      opacity: 0;
+    }
+  }
+  
+  .ripple-effect {
+    position: relative;
+    overflow: hidden;
+  }
+  
+  .ripple-effect::after {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 0;
+    height: 0;
+    border-radius: 50%;
+    background: rgba(255, 255, 255, 0.5);
+    transform: translate(-50%, -50%);
+    transition: width var(--micro-duration-fast), height var(--micro-duration-fast);
+  }
+  
+  .ripple-effect:active::after {
+    width: 300px;
+    height: 300px;
+    animation: ripple var(--micro-duration-standard) ease-out;
+  }
+  
+  /* 懸停縮放微交互 */
+  @keyframes scale-in {
+    0% {
+      transform: scale(0.95);
+      opacity: 0;
+    }
+    100% {
+      transform: scale(1);
+      opacity: 1;
+    }
+  }
+  
+  .micro-scale-in {
+    animation: scale-in var(--micro-duration-standard) var(--easing-standard);
+  }
+  
+  /* 懸停提升微交互 */
+  .micro-lift {
+    transition: transform var(--micro-duration-standard) var(--easing-standard),
+                box-shadow var(--micro-duration-standard) var(--easing-standard);
+  }
+  
+  .micro-lift:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 12px 32px rgba(0, 0, 0, 0.15);
+  }
+  
+  /* ============================================
+     2026高端設計：3D 變換增強
+     ============================================ */
+  
+  .perspective-3d {
+    perspective: 1000px;
+    transform-style: preserve-3d;
+  }
+  
+  .card-3d {
+    transform-style: preserve-3d;
+    transition: transform var(--micro-duration-slow) var(--easing-standard);
+  }
+  
+  .card-3d:hover {
+    transform: rotateY(5deg) rotateX(-5deg) scale(1.02);
+  }
+  
+  /* ============================================
+     2026高端設計：漸變動畫
+     ============================================ */
+  
+  @keyframes gradient-shift {
+    0% {
+      background-position: 0% 50%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+    100% {
+      background-position: 0% 50%;
+    }
+  }
+  
+  .gradient-animated {
+    background-size: 200% 200%;
+    animation: gradient-shift 8s ease infinite;
+  }
+  
+  /* 金色漸變動畫 */
+  .gold-gradient-animated {
+    background: linear-gradient(
+      135deg,
+      var(--gold) 0%,
+      var(--gold-dark) 50%,
+      var(--gold) 100%
+    );
+    background-size: 200% 200%;
+    animation: gradient-shift 5s ease infinite;
+  }
+  
+  /* 微光效果 - 更subtle */
+  .shimmer {
+    position: relative;
+    overflow: hidden;
+  }
+  
+  .shimmer::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: -100%;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(
+      90deg,
+      transparent,
+      rgba(255, 255, 255, 0.2),
+      transparent
+    );
+    animation: shimmer 4s infinite;
+  }
+  
+  @keyframes shimmer {
+    0% {
+      left: -100%;
+    }
+    100% {
+      left: 100%;
+    }
+  }
+  
+  /* 精緻背景圖案 - 更subtle */
+  .pattern-dots {
+    background-image: radial-gradient(circle, rgba(0, 0, 0, 0.02) 1px, transparent 1px);
+    background-size: 32px 32px;
+  }
+  
+  .pattern-grid {
+    background-image: 
+      linear-gradient(rgba(0, 0, 0, 0.015) 1px, transparent 1px),
+      linear-gradient(90deg, rgba(0, 0, 0, 0.015) 1px, transparent 1px);
+    background-size: 48px 48px;
+  }
+  
+  /* P0 #5：高級陰影系統 */
+  .shadow-premium {
+    box-shadow: var(--shadow-medium);
+  }
+  
+  .shadow-premium-lg {
+    box-shadow: var(--shadow-strong);
+  }
+  
+  .shadow-hero {
+    box-shadow: var(--shadow-hero);
+  }
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+  
+  .text-shadow {
+    text-shadow: 0 1px 4px rgba(0, 0, 0, 0.08);
+  }
+  
+  .text-shadow-lg {
+    text-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+  }
+  
+  .bg-ivory {
+    background-color: var(--ivory);
+  }
+  
+  .bg-gold {
+    background-color: var(--gold);
+  }
+  
+  .text-gold {
+    color: var(--gold);
+  }
+  
+  .border-gold {
+    border-color: var(--gold);
+  }
+  
+  .shadow-gold {
+    box-shadow: 0 4px 16px rgba(212, 175, 55, 0.15);
+  }
+  
+  /* 精緻間距工具 */
+  .spacing-section {
+    padding-top: var(--spacing-2xl);
+    padding-bottom: var(--spacing-2xl);
+  }
+  
+  /* 精緻容器 */
+  .container-elegant {
+    @apply mx-auto max-w-6xl px-6 sm:px-8 lg:px-12;
+  }
+}
+
+/* 深色模式變數 - 優化版（P0 #44：暗色模式色彩優化） */
+.dark {
+  --ivory: #0f0f0f;
+  --cream: #1a1816;
+  --gold: #d4af37;
+  --gold-light: #e8d5a3;
+  --gold-dark: #b8941f;
+  --burgundy: #8a4a52;
+  --burgundy-light: #a0636b;
+  --burgundy-dark: #722f37;
+  
+  /* 深色模式專用顏色變數 */
+  --paul-accent-blue: #3b82f6;
+  --paul-accent-blue-dark: #2563eb;
+  --zoe-accent-gold: #d4af37;
+  --zoe-accent-gold-dark: #b8941f;
+  --loewe9-accent-green: #10b981;
+  --loewe9-accent-green-dark: #059669;
+  
+  /* P0 #44：深色模式暖色調優化 */
+  --warm-bg: #1a1816;
+  --warm-surface: #252320;
+  --warm-border: #3a3632;
+  --warm-text: #f5f3f0;
+  --warm-accent: #d4af37;
+}
+
+/* 高端設計：深色模式基礎對比度優化 */
+.dark body {
+  @apply bg-neutral-900 text-neutral-50; /* 文字從100提升到50，達到AAA標準 */
+  background-color: var(--warm-bg);
+  color: var(--warm-text);
+  /* 確保最小對比度7:1 */
+  --warm-text: #f5f3f0; /* 淺色文字，對比度>7:1 */
+}
+
+.dark .bg-white {
+  @apply bg-neutral-800;
+  background-color: var(--warm-surface);
+}
+
+.dark .bg-ivory {
+  @apply bg-neutral-900;
+  background-color: var(--warm-bg);
+}
+
+/* 高端設計：深色模式對比度優化 - WCAG AAA 標準（7:1） */
+.dark .text-neutral-900 {
+  @apply text-neutral-50; /* 從100提升到50，增強對比度 */
+  color: var(--warm-text); /* 使用暖色調文字 */
+}
+
+.dark .text-neutral-700 {
+  @apply text-neutral-200; /* 從300提升到200，增強對比度 */
+}
+
+.dark .text-neutral-600 {
+  @apply text-neutral-300; /* 從400提升到300，增強對比度 */
+}
+
+.dark .text-neutral-500 {
+  @apply text-neutral-400; /* 提升對比度 */
+}
+
+.dark .text-neutral-400 {
+  @apply text-neutral-300; /* 提升對比度 */
+}
+
+.dark .border-neutral-200 {
+  @apply border-neutral-700;
+}
+
+.dark .border-neutral-300 {
+  @apply border-neutral-600;
+}
+
+.dark .border-neutral-100 {
+  @apply border-neutral-800;
+}
+
+.dark .card {
+  @apply bg-neutral-800 border-neutral-700;
+}
+
+/* 手機版優化 */
+@layer utilities {
+  /* 觸控目標最小尺寸 */
+  .touch-target {
+    min-height: 44px;
+    min-width: 44px;
+  }
+  
+  /* 觸控操作優化 */
+  .touch-manipulation {
+    touch-action: manipulation;
+    -webkit-tap-highlight-color: transparent;
+  }
+  
+  /* 手機版全局觸控優化 */
+  @media (max-width: 768px) {
+    /* 強制所有按鈕可點擊 */
+    button:not(:disabled) {
+      touch-action: manipulation !important;
+      -webkit-tap-highlight-color: transparent !important;
+      min-height: 44px !important;
+      min-width: 44px !important;
+      cursor: pointer !important;
+      position: relative !important;
+      z-index: 10 !important;
+      pointer-events: auto !important;
+    }
+    
+    /* 強制所有連結可點擊 */
+    a:not([aria-disabled="true"]) {
+      touch-action: manipulation !important;
+      -webkit-tap-highlight-color: transparent !important;
+      cursor: pointer !important;
+      position: relative !important;
+      z-index: 10 !important;
+      pointer-events: auto !important;
+    }
+    
+    /* Footer 區域確保可點擊 - 最高優先級 */
+    footer {
+      position: relative !important;
+      z-index: 30 !important;
+      pointer-events: auto !important;
+    }
+    
+    footer a,
+    footer button,
+    footer * {
+      position: relative !important;
+      z-index: 31 !important;
+      pointer-events: auto !important;
+      touch-action: manipulation !important;
+      -webkit-tap-highlight-color: transparent !important;
+    }
+    
+    /* 確保所有可點擊元素不被覆蓋 */
+    [role="button"]:not([aria-disabled="true"]),
+    [class*="cursor-pointer"] {
+      pointer-events: auto !important;
+      touch-action: manipulation !important;
+      z-index: 10 !important;
+    }
+    
+    /* 其他可點擊元素 */
+    [role="button"]:not([aria-disabled="true"]),
+    input[type="button"]:not(:disabled),
+    input[type="submit"]:not(:disabled) {
+      touch-action: manipulation !important;
+      -webkit-tap-highlight-color: transparent !important;
+      min-height: 44px;
+      min-width: 44px;
+      cursor: pointer;
+    }
+    
+    /* 表單元素 */
+    input[type="radio"],
+    input[type="checkbox"],
+    label {
+      touch-action: manipulation;
+      -webkit-tap-highlight-color: transparent;
+      min-height: 44px;
+      min-width: 44px;
+    }
+    
+    /* 修復 label 包裝的 input 點擊問題 */
+    label {
+      display: flex;
+      align-items: center;
+      cursor: pointer;
+      user-select: none;
+      -webkit-user-select: none;
+    }
+    
+    /* 確保卡片可以點擊 - 僅針對明確標記的元素 */
+    [class*="cursor-pointer"] {
+      touch-action: manipulation;
+      -webkit-tap-highlight-color: transparent;
+    }
+    
+    /* 修復橫向滾動容器中的點擊問題 */
+    .overflow-x-auto > * {
+      touch-action: manipulation;
+    }
+    
+    /* 確保卡片數據屬性元素可點擊 */
+    [data-wine-card],
+    [data-winery-card] {
+      touch-action: manipulation;
+      -webkit-tap-highlight-color: transparent;
+    }
+  }
+  
+  /* 橫向滾動優化 */
+  .scrollbar-hide {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+  
+  .scrollbar-hide::-webkit-scrollbar {
+    display: none;
+  }
+  
+  /* P0 #55：響應式字體系統 */
+  @media (max-width: 768px) {
+    body {
+      font-size: 15px;
+      line-height: 1.6;
+    }
+    
+    h1 {
+      font-size: clamp(2rem, 5vw, 4.5rem);
+      line-height: 1.2;
+    }
+    
+    h2 {
+      font-size: clamp(1.75rem, 4vw, 3.75rem);
+      line-height: 1.3;
+    }
+    
+    h3 {
+      font-size: clamp(1.5rem, 3vw, 3rem);
+      line-height: 1.4;
+    }
+    
+    p {
+      line-height: 1.7;
+      margin-bottom: 1rem;
+    }
+  }
+  
+  /* 骨架屏樣式 */
+  .skeleton {
+    @apply bg-neutral-200 dark:bg-neutral-700 animate-pulse rounded;
+  }
+  
+  /* Safe area insets for mobile */
+  .safe-area-inset-bottom {
+    padding-bottom: env(safe-area-inset-bottom);
+  }
+  
+  .safe-area-inset-top {
+    padding-top: env(safe-area-inset-top);
+  }
+  
+  /* 手機版Toast優化 */
+  @media (max-width: 768px) {
+    .toast-mobile {
+      @apply fixed bottom-20 left-4 right-4 z-50;
+      max-width: calc(100vw - 2rem);
+    }
+  }
+}
+
+.dark .card:hover {
+  @apply border-neutral-600;
+}
+
+.dark .card-premium {
+  background: linear-gradient(135deg, #1f1f1f 0%, #2a2a2a 100%);
+  @apply border-neutral-700;
+}
+
+.dark .input {
+  @apply bg-neutral-800 border-neutral-600 text-neutral-100;
+}
+
+.dark .input:focus {
+  @apply border-primary-500 ring-primary-500;
+}
+
+.dark .input-error {
+  @apply border-red-500 focus:ring-red-500 focus:border-red-500;
+}
+
+.dark .input-success {
+  @apply border-green-500 focus:ring-green-500 focus:border-green-500;
+}
+
+.dark .btn-secondary {
+  @apply border-neutral-600 text-neutral-100;
+}
+
+.dark .btn-secondary:hover {
+  @apply bg-neutral-700 text-white;
+}
+
+.dark .section-title {
+  @apply text-neutral-100;
+}
+
+.dark .section-subtitle {
+  @apply text-neutral-400;
+}
+
+.dark .divider {
+  @apply border-neutral-700;
+}
+
+/* Header 深色模式支持 */
+.dark header {
+  @apply bg-neutral-900/95 border-neutral-800;
+}
+
+/* 後台管理系統深色模式優化 */
+.dark .bg-neutral-50 {
+  @apply bg-neutral-900;
+}
+
+.dark .bg-neutral-100 {
+  @apply bg-neutral-800;
+}
+
+.dark .bg-neutral-200 {
+  @apply bg-neutral-700;
+}
+
+/* Q10優化：主題切換動畫 - 優雅的顏色漸變過渡 */
+* {
+  transition-property: background-color, border-color, color, fill, stroke, filter, opacity;
+  transition-timing-function: var(--easing-standard);
+  transition-duration: 300ms;
+}
+
+/* 主題切換時的特殊過渡效果 */
+html {
+  transition: background-color 300ms ease-out, color 300ms ease-out;
+}
+
+/* Header和Footer的主題切換動畫 */
+header, footer {
+  transition: background-color 300ms ease-out, border-color 300ms ease-out, color 300ms ease-out;
+}
+
+/* Logo主題切換動畫 */
+img[alt*="Logo"], [class*="logo"] {
+  transition: filter 500ms ease-out, opacity 500ms ease-out;
+}
+
+/* 動態漸變背景動畫 */
+@keyframes gradientShift {
+  0%, 100% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+}
+
+.animate-gradient {
+  background-size: 200% 200%;
+  animation: gradientShift 15s ease infinite;
+}
+
+/* View Transitions API 支持 */
+@supports (view-transition-name: none) {
+  ::view-transition-old(root),
+  ::view-transition-new(root) {
+    animation-duration: 0.3s;
+    animation-timing-function: ease-in-out;
+  }
+  
+  /* 共享元素過渡 */
+  ::view-transition-old(shared-element),
+  ::view-transition-new(shared-element) {
+    animation-duration: 0.4s;
+    animation-timing-function: var(--easing-standard);
+  }
+}
+
+/* P0 #14：鍵盤導航可視化焦點指示器 */
+*:focus-visible {
+  outline: 2px solid var(--gold);
+  outline-offset: 2px;
+  border-radius: 4px;
+}
+
+/* Tab 導航增強 */
+.skip-to-content:focus-visible {
+  outline: 3px solid var(--gold);
+  outline-offset: 4px;
+  z-index: 9999;
+}
+
+/* 排除不需要過渡的元素 */
+img, svg, video, canvas, audio, iframe, embed, object {
+  transition-property: none;
+}
+
+/* ============================================
+   無障礙設計 - 鍵盤導航和焦點管理
+   ============================================ */
+
+/* 全局焦點樣式 - 確保所有可聚焦元素都有清晰的視覺指示 */
+*:focus-visible {
+  outline: 2px solid var(--gold);
+  outline-offset: 2px;
+  border-radius: 4px;
+}
+
+/* 按鈕和連結的焦點樣式 */
+button:focus-visible,
+a:focus-visible,
+input:focus-visible,
+select:focus-visible,
+textarea:focus-visible {
+  outline: 2px solid var(--gold);
+  outline-offset: 2px;
+}
+
+/* 移除滑鼠點擊時的焦點環（保留鍵盤導航的焦點環） */
+button:focus:not(:focus-visible),
+a:focus:not(:focus-visible) {
+  outline: none;
+}
+
+/* 跳轉到主要內容按鈕樣式（無障礙設計） */
+.skip-to-content {
+  position: absolute;
+  top: -40px;
+  left: 0;
+  z-index: 9999;
+  padding: 12px 24px;
+  background: var(--primary-600, #b8941f);
+  color: white;
+  text-decoration: none;
+  border-radius: 0 0 8px 0;
+  font-weight: 600;
+  transition: top 0.2s ease;
+}
+
+.skip-to-content:focus {
+  top: 0;
+  outline: 3px solid var(--primary-300, #e8d5a3);
+  outline-offset: 2px;
+}
+
+/* 確保主要內容區域在跳轉後獲得焦點 */
+#main-content:focus {
+  outline: none;
+}
+
+/* 鍵盤導航優化 - 確保所有互動元素都可通過鍵盤訪問 */
+[role="button"],
+[role="tab"],
+[role="menuitem"] {
+  cursor: pointer;
+}
+
+[role="button"]:focus-visible,
+[role="tab"]:focus-visible,
+[role="menuitem"]:focus-visible {
+  outline: 2px solid var(--gold);
+  outline-offset: 2px;
+  border-radius: 4px;
+}
+
+/* 表單元素無障礙優化 */
+input[type="text"],
+input[type="email"],
+input[type="tel"],
+input[type="number"],
+input[type="search"],
+textarea,
+select {
+  min-height: 44px;
+}
+
+@media (min-width: 768px) {
+  input[type="text"],
+  input[type="email"],
+  input[type="tel"],
+  input[type="number"],
+  input[type="search"],
+  textarea,
+  select {
+    min-height: auto;
+  }
+}
+
+/* 錯誤狀態的視覺指示 */
+input:invalid:not(:focus):not(:placeholder-shown),
+textarea:invalid:not(:focus):not(:placeholder-shown) {
+  border-color: #ef4444;
+  box-shadow: 0 0 0 1px #ef4444;
+}
+
+/* 必填欄位標記 */
+label:has(+ input[required]),
+label:has(+ textarea[required]),
+label:has(+ select[required]) {
+  position: relative;
+}
+
+label:has(+ input[required])::after,
+label:has(+ textarea[required])::after,
+label:has(+ select[required])::after {
+  content: " *";
+  color: var(--gold);
+  font-weight: bold;
+  margin-left: 2px;
+}
+
+/* ============================================
+   性能優化 - 圖片優化
+   ============================================ */
+
+/* 圖片懶加載樣式 */
+img[loading="lazy"] {
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+img[loading="lazy"].loaded {
+  opacity: 1;
+}
+
+/* 圖片佔位符樣式 */
+img::before {
+  content: "";
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(
+    90deg,
+    rgba(0, 0, 0, 0.05) 0%,
+    rgba(0, 0, 0, 0.1) 50%,
+    rgba(0, 0, 0, 0.05) 100%
+  );
+  background-size: 200% 100%;
+  animation: shimmer 1.5s infinite;
+}
+
+@keyframes shimmer {
+  0% {
+    background-position: -200% 0;
+  }
+  100% {
+    background-position: 200% 0;
+  }
+}
+
+/* 無障礙設計優化 */
+/* 屏幕閱讀器專用樣式 */
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border-width: 0;
+}
+
+.sr-only:focus,
+.focus\:not-sr-only:focus {
+  position: static;
+  width: auto;
+  height: auto;
+  padding: inherit;
+  margin: inherit;
+  overflow: visible;
+  clip: auto;
+  white-space: normal;
+}
+
+/* 焦點樣式增強 */
+*:focus-visible {
+  outline: 2px solid var(--gold);
+  outline-offset: 2px;
+  border-radius: 4px;
+}
+
+/* 減少動畫（無障礙） */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+/* 跳轉鏈接樣式 */
+.skip-link {
+  position: absolute;
+  top: -40px;
+  left: 0;
+  background: var(--gold);
+  color: white;
+  padding: 8px 16px;
+  text-decoration: none;
+  z-index: 100;
+  border-radius: 4px;
+}
+
+.skip-link:focus {
+  top: 0;
+}

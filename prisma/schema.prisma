@@ -1,0 +1,530 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+
+}
+
+datasource db {
+  provider = "postgresql"
+}
+
+// 酒莊
+model Winery {
+  id          String   @id @default(cuid())
+  nameZh      String   // 中文名稱
+  nameEn      String   // 英文名稱
+  slug        String   @unique // URL slug
+  descriptionZh String? @db.Text
+  descriptionEn String? @db.Text
+  storyZh     String?  @db.Text // 酒莊故事
+  storyEn     String?  @db.Text
+  region      String?  // 產區
+  country     String?  // 國家
+  website     String?
+  logoUrl     String?
+  images      Json?    // 圖片陣列
+  featured    Boolean  @default(false)
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+
+  wines       Wine[]
+  articles    Article[]
+
+  @@index([slug])
+  @@index([featured])
+  @@map("wineries")
+}
+
+// 酒款
+model Wine {
+  id              String   @id @default(cuid())
+  wineryId        String
+  nameZh          String
+  nameEn          String
+  slug            String   @unique
+  descriptionZh   String?  @db.Text
+  descriptionEn   String?  @db.Text
+  storyZh         String?  @db.Text // 酒款故事
+  storyEn         String?  @db.Text
+  
+  // 基本資訊
+  category        WineCategory
+  region          String?  // 產區
+  country         String?  // 國家
+  vintage         Int?     // 年份
+  grapeVarieties  String[] // 葡萄品種
+  alcoholContent  Float?   // 酒精度
+  servingTemp     String?   // 適飲溫度
+  
+  // 價格
+  price           Decimal  @db.Decimal(10, 2)
+  priceRange      String?  // 價位等級 (480-800, 801-1500, etc.)
+  
+  // 圖片
+  mainImageUrl    String?
+  images          Json?    // 多張圖片
+  
+  // 評分
+  ratings         Json?    // { decanter: 95, jamesSuckling: 93, ... }
+  
+  // 庫存
+  stock           Int      @default(0)
+  stockAlert      Int      @default(10) // 低庫存警示
+  warehouse       String?  // 倉庫位置
+  
+  // 狀態
+  published       Boolean  @default(false)
+  featured        Boolean  @default(false)
+  bestseller      Boolean  @default(false)
+  
+  // 元數據
+  seoTitleZh      String?
+  seoTitleEn      String?
+  seoDescriptionZh String? @db.Text
+  seoDescriptionEn String? @db.Text
+  keywords        String[]
+  
+  createdAt       DateTime @default(now())
+  updatedAt       DateTime @updatedAt
+
+  winery          Winery   @relation(fields: [wineryId], references: [id], onDelete: Cascade)
+  categories      WineCategoryRelation[]
+  inquiries       Inquiry[]
+  cartItems       CartItem[]
+  wishlistItems   WishlistItem[]
+  orderItems      OrderItem[]
+
+  @@index([wineryId])
+  @@index([category])
+  @@index([priceRange])
+  @@index([published])
+  @@index([featured])
+  @@index([bestseller])
+  @@index([slug])
+  @@map("wines")
+}
+
+// 酒款分類
+enum WineCategory {
+  SPARKLING_WINE
+  WHITE_WINE
+  ROSE_WINE
+  RED_WINE
+  NOBLE_ROT
+  CHAMPAGNE
+}
+
+model WineCategoryRelation {
+  id        String   @id @default(cuid())
+  wineId    String
+  category  WineCategory
+  
+  wine      Wine     @relation(fields: [wineId], references: [id], onDelete: Cascade)
+
+  @@unique([wineId, category])
+  @@index([category])
+  @@map("wine_category_relations")
+}
+
+// 會員
+model User {
+  id            String   @id @default(cuid())
+  email         String   @unique
+  name          String?
+  phone         String?
+  passwordHash  String?  // 如果使用密碼登入
+  
+  // 會員等級
+  membershipLevel MembershipLevel @default(REGULAR)
+  points         Int      @default(0) // 積分
+  
+  // 個人資訊
+  birthday      DateTime?
+  address       Json?    // 地址資訊
+  
+  // 偏好設定
+  preferences   Json?    // 偏好設定
+  
+  // 狀態
+  emailVerified Boolean  @default(false)
+  active        Boolean  @default(true)
+  
+  createdAt     DateTime @default(now())
+  updatedAt     DateTime @updatedAt
+
+  cart          Cart?
+  wishlist      Wishlist?
+  orders        Order[]
+  inquiries     Inquiry[]
+  addresses     Address[]
+
+  @@index([email])
+  @@index([membershipLevel])
+  @@map("users")
+}
+
+enum MembershipLevel {
+  REGULAR
+  VIP
+  PREMIUM
+}
+
+// 地址
+model Address {
+  id          String   @id @default(cuid())
+  userId      String
+  type        AddressType // 宅配、超商、門市
+  name        String
+  phone       String
+  address     String
+  city        String?
+  district    String?
+  postalCode  String?
+  isDefault   Boolean  @default(false)
+  
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+
+  user        User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  orders      Order[]
+
+  @@index([userId])
+  @@map("addresses")
+}
+
+enum AddressType {
+  HOME_DELIVERY
+  CONVENIENCE_STORE
+  PICKUP_STORE
+}
+
+// 購物車
+model Cart {
+  id        String   @id @default(cuid())
+  userId   String   @unique
+  sessionId String? // 訪客購物車
+  
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  user      User?    @relation(fields: [userId], references: [id], onDelete: Cascade)
+  items     CartItem[]
+
+  @@index([userId])
+  @@index([sessionId])
+  @@map("carts")
+}
+
+model CartItem {
+  id        String   @id @default(cuid())
+  cartId    String
+  wineId    String
+  quantity  Int      @default(1)
+  
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  cart      Cart     @relation(fields: [cartId], references: [id], onDelete: Cascade)
+  wine      Wine     @relation(fields: [wineId], references: [id], onDelete: Cascade)
+
+  @@unique([cartId, wineId])
+  @@index([cartId])
+  @@index([wineId])
+  @@map("cart_items")
+}
+
+// 願望清單
+model Wishlist {
+  id        String   @id @default(cuid())
+  userId    String   @unique
+  
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  user      User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  items     WishlistItem[]
+
+  @@index([userId])
+  @@map("wishlists")
+}
+
+model WishlistItem {
+  id        String   @id @default(cuid())
+  wishlistId String
+  wineId    String
+  
+  createdAt DateTime @default(now())
+
+  wishlist  Wishlist @relation(fields: [wishlistId], references: [id], onDelete: Cascade)
+  wine      Wine     @relation(fields: [wineId], references: [id], onDelete: Cascade)
+
+  @@unique([wishlistId, wineId])
+  @@index([wishlistId])
+  @@index([wineId])
+  @@map("wishlist_items")
+}
+
+// 詢價單
+model Inquiry {
+  id          String   @id @default(cuid())
+  userId      String?
+  wineId      String?
+  
+  // 詢價資訊
+  name        String
+  email       String
+  phone       String
+  quantity    Int?
+  purpose     String?  // 用途
+  budget      String?  // 預算
+  notes       String?  @db.Text // 備註
+  specialRequest String? @db.Text // 特殊要求
+  deliveryDate DateTime? // 送達時間
+  
+  // 狀態
+  status      InquiryStatus @default(PENDING)
+  assignedTo  String?  // 指派給哪個客服
+  
+  // 回覆
+  response    String?  @db.Text
+  respondedAt DateTime?
+  respondedBy String?
+  
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+
+  user        User?    @relation(fields: [userId], references: [id], onDelete: SetNull)
+  wine        Wine?    @relation(fields: [wineId], references: [id], onDelete: SetNull)
+
+  @@index([status])
+  @@index([userId])
+  @@index([createdAt])
+  @@map("inquiries")
+}
+
+enum InquiryStatus {
+  PENDING
+  IN_PROGRESS
+  RESPONDED
+  CLOSED
+}
+
+// 訂單（詢價後轉換）
+model Order {
+  id          String   @id @default(cuid())
+  orderNumber String   @unique // 訂單編號
+  userId      String?
+  
+  // 訂單資訊
+  status      OrderStatus @default(PENDING)
+  totalAmount Decimal  @db.Decimal(10, 2)
+  
+  // 運送資訊
+  shippingMethod ShippingMethod
+  shippingAddress Json? // 運送地址
+  shippingFee    Decimal @db.Decimal(10, 2) @default(0)
+  addressId      String?  // 如果使用已儲存地址
+  
+  // 優惠
+  couponCode  String?
+  discount    Decimal  @db.Decimal(10, 2) @default(0)
+  
+  // 備註
+  notes       String?  @db.Text
+  
+  // 時間
+  paidAt      DateTime?
+  shippedAt   DateTime?
+  deliveredAt DateTime?
+  cancelledAt DateTime?
+  
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+
+  user        User?    @relation(fields: [userId], references: [id], onDelete: SetNull)
+  address     Address? @relation(fields: [addressId], references: [id], onDelete: SetNull)
+  items       OrderItem[]
+
+  @@index([orderNumber])
+  @@index([userId])
+  @@index([status])
+  @@index([createdAt])
+  @@map("orders")
+}
+
+enum OrderStatus {
+  PENDING
+  CONFIRMED
+  PROCESSING
+  SHIPPED
+  DELIVERED
+  CANCELLED
+  REFUNDED
+}
+
+enum ShippingMethod {
+  HOME_DELIVERY
+  CONVENIENCE_STORE
+  PICKUP_STORE
+}
+
+model OrderItem {
+  id        String   @id @default(cuid())
+  orderId   String
+  wineId    String
+  quantity  Int
+  price     Decimal  @db.Decimal(10, 2) // 當時價格
+  
+  createdAt DateTime @default(now())
+
+  order     Order    @relation(fields: [orderId], references: [id], onDelete: Cascade)
+  wine      Wine     @relation(fields: [wineId], references: [id], onDelete: Cascade)
+
+  @@index([orderId])
+  @@index([wineId])
+  @@map("order_items")
+}
+
+// 優惠券
+model Coupon {
+  id          String   @id @default(cuid())
+  code        String   @unique
+  name        String
+  description String?  @db.Text
+  
+  // 類型
+  type        CouponType
+  value       Decimal  @db.Decimal(10, 2) // 折扣金額或百分比
+  
+  // 條件
+  minPurchase Decimal? @db.Decimal(10, 2) // 最低消費
+  maxDiscount Decimal? @db.Decimal(10, 2) // 最高折扣
+  
+  // 使用限制
+  usageLimit  Int?     // 總使用次數
+  usageCount  Int      @default(0)
+  userLimit   Int?     // 每人使用次數
+  
+  // 時間
+  validFrom   DateTime
+  validUntil  DateTime
+  
+  // 狀態
+  active      Boolean  @default(true)
+  
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+
+  @@index([code])
+  @@index([active])
+  @@map("coupons")
+}
+
+enum CouponType {
+  PERCENTAGE
+  FIXED_AMOUNT
+  FREE_SHIPPING
+}
+
+// 文章/部落格
+model Article {
+  id          String   @id @default(cuid())
+  wineryId    String?
+  
+  titleZh     String
+  titleEn     String
+  slug        String   @unique
+  contentZh   String   @db.Text
+  contentEn   String   @db.Text
+  
+  // 分類
+  category    ArticleCategory
+  tags        String[]
+  
+  // 圖片
+  featuredImage String?
+  images      Json?
+  
+  // SEO
+  seoTitleZh  String?
+  seoTitleEn  String?
+  seoDescriptionZh String? @db.Text
+  seoDescriptionEn String? @db.Text
+  
+  // 狀態
+  published   Boolean  @default(false)
+  featured    Boolean  @default(false)
+  
+  // 統計
+  views       Int      @default(0)
+  
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+  publishedAt DateTime?
+
+  winery      Winery?  @relation(fields: [wineryId], references: [id], onDelete: SetNull)
+
+  @@index([slug])
+  @@index([category])
+  @@index([published])
+  @@index([featured])
+  @@map("articles")
+}
+
+enum ArticleCategory {
+  WINE_KNOWLEDGE
+  WINERY_STORY
+  PAIRING_TIPS
+  HEALTH_BENEFITS
+  TASTING_TIPS
+}
+
+// 後台管理員
+model Admin {
+  id          String   @id @default(cuid())
+  email       String   @unique
+  name        String
+  passwordHash String
+  
+  // 角色
+  role        AdminRole @default(EDITOR)
+  
+  // 狀態
+  active      Boolean  @default(true)
+  
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+  lastLoginAt DateTime?
+
+  @@index([email])
+  @@index([role])
+  @@map("admins")
+}
+
+enum AdminRole {
+  SUPER_ADMIN
+  ADMIN
+  EDITOR
+  CUSTOMER_SERVICE
+}
+
+// 操作日誌
+model AuditLog {
+  id        String   @id @default(cuid())
+  adminId   String?
+  action    String   // 操作類型
+  entity    String   // 實體類型
+  entityId  String?  // 實體ID
+  changes   Json?    // 變更內容
+  ipAddress String?
+  userAgent String?
+  
+  createdAt DateTime @default(now())
+
+  @@index([adminId])
+  @@index([entity, entityId])
+  @@index([createdAt])
+  @@map("audit_logs")
+}

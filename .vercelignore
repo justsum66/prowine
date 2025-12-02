@@ -1,0 +1,25 @@
+# Vercel 忽略文件
+
+# 開發文件
+*.log
+*.tmp
+*.temp
+tsconfig.tsbuildinfo
+
+# 文檔和報告
+docs/reports/
+
+# 測試
+coverage/
+tests/
+
+# 腳本
+scripts/
+
+# 臨時數據
+MANUS_WINE_LIST/
+screenshots/
+
+# 環境變數模板
+env.template
+

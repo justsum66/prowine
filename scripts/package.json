@@ -1,0 +1,21 @@
+{
+  "name": "prowine-scraper",
+  "version": "1.0.0",
+  "description": "PROWINE 進階圖片爬蟲系統",
+  "type": "module",
+  "scripts": {
+    "scrape:images": "tsx scripts/advanced-image-scraper.ts",
+    "scrape:wines": "tsx scripts/scrape-wines.ts",
+    "scrape:wineries": "tsx scripts/scrape-wineries.ts"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.86.0",
+    "cheerio": "^1.0.0",
+    "node-fetch": "^3.3.2"
+  },
+  "devDependencies": {
+    "@types/node": "^24.10.1",
+    "tsx": "^4.20.6"
+  }
+}
+

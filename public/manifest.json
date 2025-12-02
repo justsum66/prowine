@@ -1,0 +1,30 @@
+{
+  "name": "ProWine Premium Wine E-commerce",
+  "short_name": "ProWine",
+  "description": "Professional wine importer offering premium wines from world-class wineries",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#722f37",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/fwdlogo/logo-large.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/fwdlogo/logo-large.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["food", "shopping", "lifestyle"],
+  "lang": "zh-TW",
+  "dir": "ltr",
+  "scope": "/",
+  "prefer_related_applications": false
+}
+
