@@ -3,16 +3,19 @@
 let webpush: any = null;
 
 // 使用動態導入避免構建時錯誤
+// 使用字符串動態導入，避免 Turbopack 在構建時解析
 async function loadWebPush() {
   if (webpush !== null) {
     return webpush;
   }
   
   try {
-    // 使用動態 import 而不是 require，避免構建時檢查
+    // 使用字符串動態 import，避免構建時檢查
+    // 這樣 Turbopack 不會在構建時嘗試解析這個模塊
+    const webPushModuleName = "web-push";
     // eslint-disable-next-line @typescript-eslint/ban-ts-comment
-    // @ts-ignore - web-push 是可選依賴，可能未安裝
-    const webPushModule = await import("web-push");
+    // @ts-expect-error - web-push 是可選依賴，可能未安裝
+    const webPushModule = await import(webPushModuleName);
     webpush = webPushModule.default || webPushModule;
     return webpush;
   } catch (error) {

@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useEffect, useMemo } from "react";
+import { useState, useEffect, useMemo, Suspense } from "react";
 import { useSearchParams, useRouter } from "next/navigation";
 import Link from "next/link";
 import Image from "next/image";
@@ -33,7 +33,7 @@ interface Wine {
 type SortOption = "default" | "price-asc" | "price-desc" | "rating-desc" | "vintage-desc" | "name-asc";
 type ViewMode = "grid" | "list";
 
-export default function WinesPage() {
+function WinesPageContent() {
   const searchParams = useSearchParams();
   const router = useRouter();
   const [wines, setWines] = useState<Wine[]>([]);
@@ -377,5 +377,34 @@ export default function WinesPage() {
         </div>
       </section>
     </div>
+  );
+}
+
+export default function WinesPage() {
+  return (
+    <Suspense fallback={
+      <div className="min-h-screen bg-neutral-50 dark:bg-neutral-900">
+        <section className="bg-gradient-to-br from-neutral-900 via-neutral-800 to-neutral-900 text-white py-24">
+          <div className="container-custom">
+            <div className="max-w-3xl mx-auto text-center">
+              <h1 className="text-5xl md:text-6xl font-serif font-bold mb-6">
+                精品酒款
+              </h1>
+            </div>
+          </div>
+        </section>
+        <section className="py-12 md:py-16">
+          <div className="container-custom px-4 md:px-6">
+            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4 md:gap-6">
+              {Array.from({ length: 8 }).map((_, index) => (
+                <WineCardSkeleton key={index} />
+              ))}
+            </div>
+          </div>
+        </section>
+      </div>
+    }>
+      <WinesPageContent />
+    </Suspense>
   );
 }
